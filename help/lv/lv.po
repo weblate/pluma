@@ -3,38 +3,42 @@
 # reki the human <voiceofwise1@gmail.com>, 2018
 # Stefano Karapetsas <stefano@karapetsas.com>, 2021
 # Rihards Priedītis <rprieditis@gmail.com>, 2025
-# 
+# Rihards Prieditis <rprieditis@gmail.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2022-10-29 15:35+0200\n"
-"PO-Revision-Date: 2018-09-23 11:08+0000\n"
-"Last-Translator: Rihards Priedītis <rprieditis@gmail.com>, 2025\n"
-"Language-Team: Latvian (https://app.transifex.com/mate/teams/13566/lv/)\n"
+"PO-Revision-Date: 2026-11-19 21:20+0000\n"
+"Last-Translator: Rihards Prieditis <rprieditis@gmail.com>\n"
+"Language-Team: Latvian <https://translate.fedoraproject.org/projects/mate-"
+"desktop/help-documentation/pluma-help/lv/>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: lv\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2;\n"
+"X-Generator: Weblate 2026.11.2\n"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
 msgstr ""
+"Rihards Priedītis <rprieditis@gmail.com>\n"
+"\n"
 "Launchpad Contributions:\n"
 "  Kristaps https://launchpad.net/~retail"
 
 #. (itstool) path: info/title
 #: C/index.docbook:20
 msgid "Pluma Manual"
-msgstr ""
+msgstr "Pluma rokasgrāmata"
 
 #. (itstool) path: publisher/publishername
 #. (itstool) path: author/orgname
 #. (itstool) path: revdescription/para
 #: C/index.docbook:42 C/index.docbook:52 C/index.docbook:207
 msgid "MATE Documentation Project"
-msgstr ""
+msgstr "MATE dokumentācijas projekts"
 
 #. (itstool) path: publisher/publishername
 #. (itstool) path: author/orgname
@@ -46,125 +50,125 @@ msgstr ""
 #: C/index.docbook:167 C/index.docbook:175 C/index.docbook:183
 #: C/index.docbook:191 C/index.docbook:199
 msgid "GNOME Documentation Project"
-msgstr ""
+msgstr "GNOME dokumentācijas projekts"
 
 #. (itstool) path: affiliation/orgname
 #: C/index.docbook:54
 msgid "MATE Desktop"
-msgstr ""
+msgstr "MATE darbvirsma"
 
 #. (itstool) path: affiliation/orgname
 #: C/index.docbook:66
 msgid "GNOME"
-msgstr ""
+msgstr "GNOME"
 
 #. (itstool) path: author/contrib
 #: C/index.docbook:74
 msgid "Added the Shortcut Keys Table"
-msgstr ""
+msgstr "Pievienota īsinājumtaustiņu tabula"
 
 #. (itstool) path: author/orgname
 #. (itstool) path: revdescription/para
 #: C/index.docbook:77 C/index.docbook:190
 msgid "Sun Java Desktop System Documentation Team"
-msgstr ""
+msgstr "Sun Java Desktop System dokumentācijas komanda"
 
 #. (itstool) path: affiliation/orgname
 #: C/index.docbook:79
 msgid "Sun Microsystems"
-msgstr "Sun Mikrosistēmas"
+msgstr "Sun Microsystems"
 
 #. (itstool) path: othercredit/contrib
 #: C/index.docbook:98
 msgid "Provided information from earlier revisions of the pluma application."
-msgstr ""
+msgstr "Sniedza informāciju par iepriekšējām pluma versijām."
 
 #. (itstool) path: othercredit/contrib
 #: C/index.docbook:105
 msgid "Provided information about plugins."
-msgstr ""
+msgstr "Sniedza informāciju par spraudņiem."
 
 #. (itstool) path: revision/date
 #: C/index.docbook:124
 msgid "March 2002"
-msgstr ""
+msgstr "2002. gada marts"
 
 #. (itstool) path: revdescription/para
 #: C/index.docbook:126 C/index.docbook:134 C/index.docbook:142
 #: C/index.docbook:150 C/index.docbook:158 C/index.docbook:166
 #: C/index.docbook:174 C/index.docbook:182
 msgid "Sun GNOME Documentation Team"
-msgstr ""
+msgstr "Sun GNOME dokumentācijas komanda"
 
 #. (itstool) path: revision/date
 #: C/index.docbook:132
 msgid "June 2002"
-msgstr ""
+msgstr "2002. gada jūnijs"
 
 #. (itstool) path: revision/date
 #: C/index.docbook:140
 msgid "August 2002"
-msgstr ""
+msgstr "2002. gada augusts"
 
 #. (itstool) path: revision/date
 #: C/index.docbook:148
 msgid "September 2002"
-msgstr ""
+msgstr "2002. gada septembris"
 
 #. (itstool) path: revision/date
 #: C/index.docbook:156
 msgid "January 2003"
-msgstr ""
+msgstr "2003. gada janvāris"
 
 #. (itstool) path: revision/date
 #: C/index.docbook:164
 msgid "March 2003"
-msgstr ""
+msgstr "2003. gada marts"
 
 #. (itstool) path: revision/date
 #: C/index.docbook:172
 msgid "September 2003"
-msgstr ""
+msgstr "2003. gada septembris"
 
 #. (itstool) path: revision/date
 #: C/index.docbook:180
 msgid "March 2004"
-msgstr ""
+msgstr "2004. gada marts"
 
 #. (itstool) path: revision/date
 #: C/index.docbook:188 C/index.docbook:204
 msgid "July 2015"
-msgstr ""
+msgstr "2015. gada jūlijs"
 
 #. (itstool) path: revision/date
 #: C/index.docbook:196
 msgid "July 2006"
-msgstr ""
+msgstr "2006. gada jūlijs"
 
 #. (itstool) path: revdescription/para
 #: C/index.docbook:198
 msgid "GNOME Documentation Team"
-msgstr ""
+msgstr "GNOME dokumentācijas komanda"
 
 #. (itstool) path: revdescription/para
 #: C/index.docbook:206
 msgid "MATE Documentation Team"
-msgstr "MATE Dokumentācijas Komanda"
+msgstr "MATE dokumentācijas komanda"
 
 #. (itstool) path: info/releaseinfo
 #: C/index.docbook:212
 msgid "This manual describes version 1.10 of pluma."
-msgstr ""
+msgstr "Šajā rokasgrāmatā aprakstīta pluma versija 1.10."
 
 #. (itstool) path: article/indexterm
 #: C/index.docbook:216
 msgid "<primary>pluma</primary>"
-msgstr ""
+msgstr "<primary>pluma</primary>"
 
 #. (itstool) path: article/indexterm
 #: C/index.docbook:219
 msgid "<primary>text editor</primary>"
-msgstr ""
+msgstr "<primary>teksta redaktors</primary>"
 
 #. (itstool) path: info/title
 #: C/index.docbook:227
@@ -177,6 +181,8 @@ msgid ""
 "The <application>pluma</application> application enables you to create and "
 "edit text files."
 msgstr ""
+"Lietotne <application>pluma</application> ļauj izveidot un rediģēt teksta "
+"failus."
 
 #. (itstool) path: section/para
 #: C/index.docbook:232
@@ -186,26 +192,30 @@ msgid ""
 "<firstterm>plugins</firstterm>, allowing a variety of tasks related to text-"
 "editing."
 msgstr ""
+"<application>pluma</application> mērķis ir būt vienkāršam un viegli "
+"lietojamam teksta redaktoram. Ar dažādiem <firstterm>spraudņiem</firstterm> "
+"var iespējot jaudīgākas iespējas, kas ļauj veikt dažādus ar teksta "
+"rediģēšanu saistītus uzdevumus."
 
 #. (itstool) path: info/title
 #: C/index.docbook:238
 msgid "Getting Started"
-msgstr ""
+msgstr "Darba sākšana"
 
 #. (itstool) path: info/title
 #: C/index.docbook:244
 msgid "Starting pluma"
-msgstr ""
+msgstr "Pluma palaišana"
 
 #. (itstool) path: section/para
 #: C/index.docbook:246
 msgid "You can start <application>pluma</application> in the following ways:"
-msgstr ""
+msgstr "<application>pluma</application> var palaist šādi:"
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:249
 msgid "<guimenu>Applications</guimenu> menu"
-msgstr ""
+msgstr "Izvēlne <guimenu>Lietotnes</guimenu>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:252
@@ -213,6 +223,8 @@ msgid ""
 "Choose <menuchoice> <guisubmenu>Accessories</guisubmenu> <guimenuitem>Pluma "
 "Text Editor</guimenuitem> </menuchoice>."
 msgstr ""
+"Izvēlieties <menuchoice> <guisubmenu>Piederumi</guisubmenu> <guimenuitem>"
+"Pluma teksta redaktors</guimenuitem> </menuchoice>."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:256
@@ -222,7 +234,7 @@ msgstr "Komandrinda"
 #. (itstool) path: listitem/para
 #: C/index.docbook:258
 msgid "Execute the following command: <command>pluma</command>"
-msgstr ""
+msgstr "Izpildiet komandu <command>pluma</command>"
 
 #. (itstool) path: section/para
 #: C/index.docbook:262
@@ -230,39 +242,41 @@ msgid ""
 "By default, when you open a text document in the file manager, pluma will "
 "start, and display the document."
 msgstr ""
+"Pēc noklusējuma, atverot teksta dokumentu failu pārvaldniekā, tiek palaists "
+"pluma un parādīts dokuments."
 
 #. (itstool) path: info/title
 #: C/index.docbook:267
 msgid "The pluma Window"
-msgstr ""
+msgstr "pluma logs"
 
 #. (itstool) path: section/para
 #: C/index.docbook:269
 msgid ""
 "When you start <application>pluma</application>, the following window is "
 "displayed:"
-msgstr ""
+msgstr "Palaižot <application>pluma</application>, tiek parādīts šāds logs:"
 
 #. (itstool) path: info/title
 #: C/index.docbook:273
 msgid "pluma Window"
-msgstr ""
+msgstr "pluma logs"
 
 #. (itstool) path: textobject/phrase
 #: C/index.docbook:281
 msgid "Shows pluma main window."
-msgstr ""
+msgstr "pluma galvenais logs."
 
 #. (itstool) path: section/para
 #: C/index.docbook:287
 msgid ""
 "The <application>pluma</application> window contains the following elements:"
-msgstr ""
+msgstr "<application>pluma</application> logā ir šādi elementi:"
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:290
 msgid "Menubar"
-msgstr ""
+msgstr "Izvēlņu josla"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:292
@@ -270,33 +284,35 @@ msgid ""
 "The menus on the menubar contain all the commands you need to work with "
 "files in <application>pluma</application>."
 msgstr ""
+"Izvēļņu joslas izvēlnēs ir visas komandas, kas vajadzīgas darbam ar failiem "
+"lietotnē <application>pluma</application>."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:296
 msgid "Toolbar"
-msgstr ""
+msgstr "Rīkjosla"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:298
 msgid ""
 "The toolbar contains a subset of the commands that you can access from the "
 "menubar."
-msgstr ""
+msgstr "Rīkjoslā ir daļa no izvēļņu joslā pieejamajām komandām."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:302
 msgid "Display area"
-msgstr ""
+msgstr "Attēlošanas apgabals"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:304
 msgid "The display area contains the text of the file that you are editing."
-msgstr ""
+msgstr "Attēlošanas apgabalā ir rediģējamā faila teksts."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:308
 msgid "Statusbar"
-msgstr ""
+msgstr "Statusa josla"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:310
@@ -305,13 +321,16 @@ msgid ""
 "<application>pluma</application> activity and contextual information about "
 "the menu items. The statusbar also displays the following information:"
 msgstr ""
+"Statusa joslā redzama informācija par pašreizējo <application>pluma</"
+"application> darbību un paskaidrojumi par izvēļņu vienumiem. Statusa joslā "
+"redzama arī šāda informācija:"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:313
 msgid ""
 "Cursor position: the line number and column number where the cursor is "
 "located."
-msgstr ""
+msgstr "Kursora pozīcija: rindas un kolonnas numurs, kurā atrodas kursors."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:316
@@ -321,11 +340,15 @@ msgid ""
 "contains the text <guilabel>OVR</guilabel>. Press the "
 "<keycap>Insert</keycap> key to change edit mode."
 msgstr ""
+"Rediģēšanas režīms: ja redaktors ir ievietošanas režīmā, statusa joslā "
+"redzams teksts <guilabel>IEV</guilabel>. Ja redaktors ir pārrakstīšanas "
+"režīmā, statusa joslā redzams teksts <guilabel>PĀR</guilabel>. Lai mainītu "
+"rediģēšanas režīmu, nospiediet taustiņu <keycap>Insert</keycap>."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:322
 msgid "Side Pane"
-msgstr ""
+msgstr "Sānu rūts"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:324
@@ -333,6 +356,8 @@ msgid ""
 "The side pane displays a list of open documents, and other information "
 "depending on which plugins are enabled."
 msgstr ""
+"Sānu rūtī redzams atvērto dokumentu saraksts un cita informācija atkarībā no "
+"iespējotajiem spraudņiem."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:325
@@ -340,11 +365,14 @@ msgid ""
 "By default, the side pane is not shown. To show it, choose <menuchoice> "
 "<guimenu>View</guimenu> <guimenuitem>Side Pane</guimenuitem> </menuchoice>."
 msgstr ""
+"Pēc noklusējuma sānu rūts netiek rādīta. Lai to parādītu, izvēlieties "
+"<menuchoice> <guimenu>Skats</guimenu> <guimenuitem>Sānu rūts</guimenuitem> </"
+"menuchoice>."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:329
 msgid "Bottom Pane"
-msgstr ""
+msgstr "Apakšējais panelis"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:331
@@ -352,6 +380,8 @@ msgid ""
 "The bottom pane is used by programming tools such as the <application>Python"
 " Console</application> plugin to display output."
 msgstr ""
+"Apakšējo paneli izmanto programmēšanas rīki, piemēram, spraudnis "
+"<application>Python konsole</application>, lai parādītu izvadi."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:332
@@ -360,6 +390,9 @@ msgid ""
 "<guimenu>View</guimenu> <guimenuitem>Bottom Pane</guimenuitem> "
 "</menuchoice>."
 msgstr ""
+"Pēc noklusējuma apakšējais panelis nav redzams. Lai to parādītu, izvēlieties "
+"<menuchoice> <guimenu>Skats</guimenu> <guimenuitem>Apakšējais panelis</"
+"guimenuitem> </menuchoice>."
 
 #. (itstool) path: section/para
 #: C/index.docbook:336
@@ -368,6 +401,9 @@ msgid ""
 "application displays a popup menu. The popup menu contains the most common "
 "text editing commands."
 msgstr ""
+"Ja ar peles labo pogu noklikšķināt <application>pluma</application> logā, "
+"tiek parādīta uznirstošā izvēlne ar biežāk lietotajām teksta rediģēšanas "
+"komandām."
 
 #. (itstool) path: section/para
 #: C/index.docbook:337
@@ -377,11 +413,16 @@ msgid ""
 "shortcut keys. Shortcuts keys common to all applications are listed in the "
 "<link xlink:href=\"help:mate-user-guide/shortcuts-apps\">User Guide</link>."
 msgstr ""
+"Tāpat kā citās MATE lietotnēs, darbības lietotnē <application>pluma</"
+"application> var veikt vairākos veidos: ar izvēlni, ar rīkjoslu vai ar "
+"īsinājumtaustiņiem. Visām lietotnēm kopīgie īsinājumtaustiņi ir uzskaitīti "
+"<link xlink:href=\"help:mate-user-guide/shortcuts-apps\">Lietotāja "
+"rokasgrāmatā</link>."
 
 #. (itstool) path: info/title
 #: C/index.docbook:343
 msgid "Running pluma from a Command Line"
-msgstr ""
+msgstr "Pluma palaišana no komandrindas"
 
 #. (itstool) path: section/para
 #: C/index.docbook:345
@@ -390,6 +431,9 @@ msgid ""
 "single file or multiple files. To open multiple files from a command line, "
 "type the following command, then press <keycap>Return</keycap>:"
 msgstr ""
+"<application>pluma</application> var palaist no komandrindas un atvērt vienu "
+"vai vairākus failus. Lai no komandrindas atvērtu vairākus failus, ievadiet "
+"šādu komandu un nospiediet <keycap>Enter</keycap>:"
 
 #. (itstool) path: section/para
 #: C/index.docbook:346
@@ -397,11 +441,13 @@ msgid ""
 "<command>pluma <replaceable>file1.txt file2.txt "
 "file3.txt</replaceable></command>"
 msgstr ""
+"<command>pluma <replaceable>file1.txt file2.txt file3.txt</replaceable></"
+"command>"
 
 #. (itstool) path: section/para
 #: C/index.docbook:349
 msgid "Alternatively, you can specify a URI instead of a filename."
-msgstr ""
+msgstr "Varat arī norādīt URI faila nosaukuma vietā."
 
 #. (itstool) path: section/para
 #: C/index.docbook:350
@@ -411,16 +457,20 @@ msgid ""
 "</citerefentry> </link> man page for more information on how to run "
 "<application>pluma</application> from a command line."
 msgstr ""
+"Plašāku informāciju par <application>pluma</application> palaišanu no "
+"komandrindas skatiet rokasgrāmatas lapā <link xlink:href=\"man:pluma\"> "
+"<citerefentry> <refentrytitle>pluma</refentrytitle> <manvolnum>1</manvolnum> "
+"</citerefentry> </link>."
 
 #. (itstool) path: info/title
 #: C/index.docbook:357
 msgid "Working with Files"
-msgstr ""
+msgstr "Darbs ar failiem"
 
 #. (itstool) path: info/title
 #: C/index.docbook:363
 msgid "Creating a New Document"
-msgstr ""
+msgstr "Jauna dokumenta izveide"
 
 #. (itstool) path: section/para
 #: C/index.docbook:365
@@ -429,11 +479,14 @@ msgid ""
 "<guimenuitem>New</guimenuitem> </menuchoice>. The application displays a new"
 " blank document in the <application>pluma</application> window."
 msgstr ""
+"Lai izveidotu jaunu dokumentu, izvēlieties <menuchoice> <guimenu>Fails</"
+"guimenu> <guimenuitem>Jauns</guimenuitem> </menuchoice>. <application>pluma</"
+"application> logā tiek parādīts jauns tukšs dokuments."
 
 #. (itstool) path: info/title
 #: C/index.docbook:371 C/index.docbook:2092
 msgid "Opening a File"
-msgstr ""
+msgstr "Faila atvēršana"
 
 #. (itstool) path: section/para
 #: C/index.docbook:373
@@ -444,11 +497,16 @@ msgid ""
 "<guibutton>Open</guibutton>. The file is displayed in the "
 "<application>pluma</application> window."
 msgstr ""
+"Lai atvērtu failu, izvēlieties <menuchoice> <guimenu>Fails</guimenu> "
+"<guimenuitem>Atvērt</guimenuitem> </menuchoice> — tiek parādīts "
+"dialoglodziņš <guilabel>Atvērt failu</guilabel>. Atlasiet failu, kuru "
+"vēlaties atvērt, un noklikšķiniet uz <guibutton>Atvērt</guibutton>. Fails "
+"tiek parādīts <application>pluma</application> logā."
 
 #. (itstool) path: textobject/phrase
 #: C/index.docbook:379
 msgid "Shows Recent Files menu icon."
-msgstr ""
+msgstr "Nesen atvērto failu izvēlnes ikona."
 
 #. (itstool) path: section/para
 #: C/index.docbook:374
@@ -459,6 +517,10 @@ msgid ""
 "on the <_:inlinemediaobject-1/> icon on the toolbar to display the list of "
 "recent files."
 msgstr ""
+"Lietotne atceras piecu pēdējo rediģēto failu ceļus un nosaukumus un parāda "
+"tos kā vienumus izvēlnē <menuchoice> <guimenu>Fails</guimenu> </menuchoice>. "
+"Nesen atvērto failu sarakstu var parādīt arī, noklikšķinot uz rīkjoslas "
+"ikonas <_:inlinemediaobject-1/>."
 
 #. (itstool) path: note/para
 #: C/index.docbook:383
@@ -467,6 +529,9 @@ msgid ""
 "application adds a tab for each open file to the window. For more on this "
 "see <xref linkend=\"pluma-tabs\"/>."
 msgstr ""
+"Lietotnē <application>pluma</application> var atvērt vairākus failus. Katram "
+"atvērtajam failam logā tiek pievienota cilne. Plašāku informāciju skatiet "
+"<xref linkend=\"pluma-tabs\"/>."
 
 #. (itstool) path: tip/para
 #: C/index.docbook:386
@@ -476,16 +541,20 @@ msgid ""
 "<keycombo><keycap>Ctrl</keycap><keycap>l</keycap></keycombo>, "
 "<keycap>.</keycap>, <keycap>~</keycap> or <keycap>/</keycap>."
 msgstr ""
+"Dialoglodziņā <guilabel>Atvērt failu</guilabel> var ievadīt faila atrašanās "
+"vietu. Lai pārslēgtos starp atrašanās vietas lauku un ceļa pogām, nospiediet "
+"<keycombo><keycap>Ctrl</keycap><keycap>l</keycap></keycombo>, <keycap>.</"
+"keycap>, <keycap>~</keycap> vai <keycap>/</keycap>."
 
 #. (itstool) path: info/title
 #: C/index.docbook:393
 msgid "Saving a File"
-msgstr ""
+msgstr "Faila saglabāšana"
 
 #. (itstool) path: section/para
 #: C/index.docbook:395
 msgid "You can save files in the following ways:"
-msgstr ""
+msgstr "Failus var saglabāt šādi:"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:398
@@ -493,6 +562,8 @@ msgid ""
 "To save changes to an existing file, choose <menuchoice> "
 "<guimenu>File</guimenu> <guimenuitem>Save</guimenuitem> </menuchoice>."
 msgstr ""
+"Lai saglabātu izmaiņas esošā failā, izvēlieties <menuchoice> <guimenu>Fails</"
+"guimenu> <guimenuitem>Saglabāt</guimenuitem> </menuchoice>."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:401
@@ -502,6 +573,10 @@ msgid ""
 "</menuchoice>. Enter a name for the file in the <guilabel>Save As</guilabel>"
 " dialog, then click <guibutton>Save</guibutton>."
 msgstr ""
+"Lai saglabātu jaunu failu vai esošu failu ar jaunu nosaukumu, izvēlieties "
+"<menuchoice> <guimenu>Fails</guimenu> <guimenuitem>Saglabāt kā</guimenuitem> "
+"</menuchoice>. Dialoglodziņā <guilabel>Saglabāt kā</guilabel> ievadiet faila "
+"nosaukumu, pēc tam noklikšķiniet uz <guibutton>Saglabāt</guibutton>."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:404
@@ -511,6 +586,9 @@ msgid ""
 "<guimenu>Documents</guimenu> <guimenuitem>Save All</guimenuitem> "
 "</menuchoice>."
 msgstr ""
+"Lai saglabātu visus <application>pluma</application> pašlaik atvērtos "
+"failus, izvēlieties <menuchoice> <guimenu>Dokumenti</guimenu> <guimenuitem>"
+"Saglabāt visus</guimenuitem> </menuchoice>."
 
 #. (itstool) path: section/para
 #: C/index.docbook:407
@@ -520,11 +598,14 @@ msgid ""
 "<guimenu>Documents</guimenu> <guimenuitem>Close All</guimenuitem> "
 "</menuchoice>."
 msgstr ""
+"Lai aizvērtu visus <application>pluma</application> pašlaik atvērtos failus, "
+"izvēlieties <menuchoice> <guimenu>Dokumenti</guimenu> <guimenuitem>Aizvērt "
+"visus</guimenuitem> </menuchoice>."
 
 #. (itstool) path: info/title
 #: C/index.docbook:413
 msgid "Working With Tabs"
-msgstr ""
+msgstr "Darbs ar cilnēm"
 
 #. (itstool) path: section/para
 #: C/index.docbook:415
@@ -533,6 +614,9 @@ msgid ""
 "<firstterm>tab</firstterm> for each document above the display area. To "
 "switch to another document, click on its tab."
 msgstr ""
+"Ja ir atvērti vairāki faili, <application>pluma</application> virs "
+"attēlošanas apgabala katram dokumentam rāda <firstterm>cilni</firstterm>. "
+"Lai pārslēgtos uz citu dokumentu, noklikšķiniet uz tā cilnes."
 
 #. (itstool) path: section/para
 #: C/index.docbook:416
@@ -540,6 +624,8 @@ msgid ""
 "To move a document to another <application> pluma</application> window, drag"
 " the tab corresponding to the file to the window you want to move it to."
 msgstr ""
+"Lai pārvietotu dokumentu uz citu <application> pluma</application> logu, "
+"velciet faila cilni uz logu, uz kuru vēlaties to pārvietot."
 
 #. (itstool) path: section/para
 #: C/index.docbook:417
@@ -549,21 +635,25 @@ msgid ""
 "<guimenu>Documents</guimenu> <guimenuitem>Move to New Window</guimenuitem> "
 "</menuchoice>."
 msgstr ""
+"Lai pārvietotu dokumentu uz jaunu <application> pluma</application> logu, "
+"velciet tā cilni uz darbvirsmu vai izvēlieties <menuchoice> <guimenu>"
+"Dokumenti</guimenu> <guimenuitem>Pārvietot uz jaunu logu</guimenuitem> </"
+"menuchoice>."
 
 #. (itstool) path: info/title
 #: C/index.docbook:424
 msgid "Working with Text"
-msgstr ""
+msgstr "Darbs ar tekstu"
 
 #. (itstool) path: info/title
 #: C/index.docbook:430
 msgid "Editing Text"
-msgstr ""
+msgstr "Teksta rediģēšana"
 
 #. (itstool) path: section/para
 #: C/index.docbook:432
 msgid "You can edit the text of a file in the following ways:"
-msgstr ""
+msgstr "Faila tekstu var rediģēt šādi:"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:435
@@ -572,6 +662,9 @@ msgid ""
 "cursor</firstterm> marks the point where new text appears. To change this, "
 "use the arrow keys on the keyboard or click with the mouse."
 msgstr ""
+"Ievadiet jaunu tekstu ar tastatūru. Mirgojošais <firstterm>ievietošanas "
+"kursors</firstterm> norāda vietu, kur parādīsies jaunais teksts. Lai to "
+"mainītu, izmantojiet tastatūras bulttaustiņus vai noklikšķiniet ar peli."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:438
@@ -579,6 +672,8 @@ msgid ""
 "To copy the selected text to the clipboard, choose <menuchoice> "
 "<guimenu>Edit</guimenu> <guimenuitem>Copy</guimenuitem> </menuchoice>."
 msgstr ""
+"Lai atlasīto tekstu kopētu starpliktuvē, izvēlieties <menuchoice> <guimenu>"
+"Rediģēt</guimenu> <guimenuitem>Kopēt</guimenuitem> </menuchoice>."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:441
@@ -587,6 +682,9 @@ msgid ""
 "clipboard, choose <menuchoice> <guimenu>Edit</guimenu> "
 "<guimenuitem>Cut</guimenuitem> </menuchoice>."
 msgstr ""
+"Lai izdzēstu atlasīto tekstu no faila un pārvietotu to uz starpliktuvi, "
+"izvēlieties <menuchoice> <guimenu>Rediģēt</guimenu> <guimenuitem>Izgriezt</"
+"guimenuitem> </menuchoice>."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:444
@@ -594,6 +692,9 @@ msgid ""
 "To permanently delete the selected text from the file, choose <menuchoice> "
 "<guimenu>Edit</guimenu> <guimenuitem>Delete</guimenuitem> </menuchoice>."
 msgstr ""
+"Lai atlasīto tekstu neatgriezeniski dzēstu no faila, izvēlieties "
+"<menuchoice> <guimenu>Rediģēt</guimenu> <guimenuitem>Dzēst</guimenuitem> </"
+"menuchoice>."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:447
@@ -603,6 +704,10 @@ msgid ""
 "</menuchoice>. You must cut or copy text before you can paste text into the "
 "file, either from pluma or another application."
 msgstr ""
+"Lai ievietotu starpliktuves saturu kursora vietā, izvēlieties <menuchoice> "
+"<guimenu>Rediģēt</guimenu> <guimenuitem>Ielīmēt</guimenuitem> </menuchoice>. "
+"Pirms ielīmēšanas failā teksts jāizgriež vai jānokopē — vai nu pluma, vai "
+"citā lietotnē."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:450
@@ -610,11 +715,13 @@ msgid ""
 "To select all the text in a file, choose <menuchoice> "
 "<guimenu>Edit</guimenu> <guimenuitem>Select All</guimenuitem> </menuchoice>."
 msgstr ""
+"Lai atlasītu visu faila tekstu, izvēlieties <menuchoice> <guimenu>Rediģēt</"
+"guimenu> <guimenuitem>Atlasīt visu</guimenuitem> </menuchoice>."
 
 #. (itstool) path: info/title
 #: C/index.docbook:458
 msgid "Undoing and Redoing Changes"
-msgstr ""
+msgstr "Izmaiņu atsaukšana un atkārtošana"
 
 #. (itstool) path: section/para
 #: C/index.docbook:460
@@ -624,11 +731,15 @@ msgid ""
 "choose <menuchoice> <guimenu>Edit</guimenu> <guimenuitem>Redo</guimenuitem> "
 "</menuchoice>."
 msgstr ""
+"Lai atsauktu veiktās izmaiņas, izvēlieties <menuchoice> <guimenu>Rediģēt</"
+"guimenu> <guimenuitem>Atsaukt</guimenuitem> </menuchoice>. Lai atceltu "
+"atsaukšanu, izvēlieties <menuchoice> <guimenu>Rediģēt</guimenu> <guimenuitem>"
+"Atkārtot</guimenuitem> </menuchoice>."
 
 #. (itstool) path: info/title
 #: C/index.docbook:466
 msgid "Finding and Replacing"
-msgstr ""
+msgstr "Meklēšana un aizstāšana"
 
 #. (itstool) path: section/para
 #: C/index.docbook:468
@@ -638,16 +749,20 @@ msgid ""
 "specific piece of text, or <guilabel>Incremental Search</guilabel> to "
 "highlight matching text as you type it."
 msgstr ""
+"<application>pluma</application> tekstu var meklēt divos veidos. Ar "
+"dialoglodziņu <guilabel>Meklēt</guilabel> var meklēt konkrētu teksta "
+"fragmentu, bet ar <guilabel>Inkrementālā meklēšana</guilabel> atbilstošais "
+"teksts tiek izcelts jau rakstīšanas laikā."
 
 #. (itstool) path: info/title
 #: C/index.docbook:473
 msgid "Finding Text"
-msgstr ""
+msgstr "Teksta meklēšana"
 
 #. (itstool) path: section/para
 #: C/index.docbook:476
 msgid "To search a file for a string of text, perform the following steps:"
-msgstr ""
+msgstr "Lai failā meklētu teksta virkni, veiciet šīs darbības:"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:479
@@ -656,6 +771,9 @@ msgid ""
 "<guimenuitem>Find</guimenuitem> </menuchoice> to display the "
 "<guilabel>Find</guilabel> dialog."
 msgstr ""
+"Izvēlieties <menuchoice> <guimenu>Meklēt</guimenu> <guimenuitem>Meklēt</"
+"guimenuitem> </menuchoice>, lai parādītu dialoglodziņu <guilabel>Meklēt</"
+"guilabel>."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:485
@@ -664,6 +782,9 @@ msgid ""
 " field. You can include special characters such as a new line or tab: see "
 "<xref linkend=\"pluma-find-escapes\"/>."
 msgstr ""
+"Laukā <guilabel>Meklēt</guilabel> ievadiet meklējamo virkni. Var iekļaut arī "
+"īpašas rakstzīmes, piemēram, jaunas rindas vai tabulācijas rakstzīmi — "
+"skatiet <xref linkend=\"pluma-find-escapes\"/>."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:488
@@ -674,6 +795,10 @@ msgid ""
 "first occurrence of the string. Other occurrences of the string are "
 "highlighted."
 msgstr ""
+"Noklikšķiniet uz <guibutton>Meklēt</guibutton>, lai failā atrastu pirmo "
+"virknes gadījumu aiz pašreizējās kursora pozīcijas. Ja <application>pluma</"
+"application> atrod virkni, tiek atlasīts pirmais tās gadījums. Pārējie "
+"virknes gadījumi tiek izcelti."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:491
@@ -684,6 +809,11 @@ msgid ""
 "text, choose <menuchoice> <guimenu>Search</guimenu> <guimenuitem>Find "
 "Previous</guimenuitem> </menuchoice>."
 msgstr ""
+"Lai atrastu nākamo virknes gadījumu, noklikšķiniet uz <guibutton>Meklēt</"
+"guibutton> vai izvēlieties <menuchoice> <guimenu>Meklēt</guimenu> "
+"<guimenuitem>Meklēt nākamo</guimenuitem> </menuchoice>. Lai atrastu "
+"iepriekšējo gadījumu, izvēlieties <menuchoice> <guimenu>Meklēt</guimenu> "
+"<guimenuitem>Meklēt iepriekšējo</guimenuitem> </menuchoice>."
 
 #. (itstool) path: section/para
 #: C/index.docbook:500
@@ -694,6 +824,11 @@ msgid ""
 "</menuchoice> and <menuchoice> <guimenu>Search</guimenu> <guimenuitem>Find "
 "Previous</guimenuitem> </menuchoice>."
 msgstr ""
+"Arī pēc dialoglodziņa <guilabel>Meklēt</guilabel> aizvēršanas atlasi var "
+"pārvietot uz citiem teksta gadījumiem, izvēloties <menuchoice> <guimenu>"
+"Meklēt</guimenu> <guimenuitem>Meklēt nākamo</guimenuitem> </menuchoice> un "
+"<menuchoice> <guimenu>Meklēt</guimenu> <guimenuitem>Meklēt iepriekšējo</"
+"guimenuitem> </menuchoice>."
 
 #. (itstool) path: section/para
 #: C/index.docbook:507
@@ -702,6 +837,8 @@ msgid ""
 "<guimenu>Search</guimenu> <guimenuitem>Clear Highlight</guimenuitem> "
 "</menuchoice>."
 msgstr ""
+"Lai noņemtu teksta izcēlumu, izvēlieties <menuchoice> <guimenu>Meklēt</"
+"guimenu> <guimenuitem>Notīrīt izcēlumu</guimenuitem> </menuchoice>."
 
 #. (itstool) path: section/para
 #: C/index.docbook:511
@@ -712,11 +849,15 @@ msgid ""
 "semantics of the regular expressions supported on <guilabel>Find</guilabel> "
 "dialog."
 msgstr ""
+"Plašāku informāciju par dialoglodziņā <guilabel>Meklēt</guilabel> atbalstīto "
+"regulāro izteiksmju sintaksi un semantiku skatiet <link "
+"xlink:href=\"man:pcrepattern\"> <citerefentry> <refentrytitle>pcrepattern</"
+"refentrytitle> <manvolnum>3</manvolnum> </citerefentry> </link>."
 
 #. (itstool) path: info/title
 #: C/index.docbook:516
 msgid "Incremental Search"
-msgstr ""
+msgstr "Inkrementālā meklēšana"
 
 #. (itstool) path: section/para
 #: C/index.docbook:520
@@ -725,6 +866,8 @@ msgid ""
 "letter by letter. (This is similar to the search feature in several web "
 "browsers.)"
 msgstr ""
+"Inkrementālā meklēšana izceļ dokumentā atbilstošo tekstu, kamēr to ievadāt "
+"pa burtam. (Līdzīgi meklēšanai daudzos tīmekļa pārlūkos.)"
 
 #. (itstool) path: section/para
 #: C/index.docbook:521
@@ -733,6 +876,9 @@ msgid ""
 "<guimenu>Search</guimenu> <guimenuitem>Incremental Search</guimenuitem> "
 "</menuchoice>. The search box appears at the top of the display area."
 msgstr ""
+"Lai sāktu inkrementālo meklēšanu, izvēlieties <menuchoice> <guimenu>Meklēt</"
+"guimenu> <guimenuitem>Inkrementālā meklēšana</guimenuitem> </menuchoice>. "
+"Attēlošanas apgabala augšdaļā parādās meklēšanas lodziņš."
 
 #. (itstool) path: section/para
 #: C/index.docbook:525
@@ -740,6 +886,8 @@ msgid ""
 "Begin typing, and text that matches will be highlighted in the document. The"
 " first instance after the cursor position is also selected."
 msgstr ""
+"Sāciet rakstīt — atbilstošais teksts dokumentā tiks izcelts. Pirmais "
+"gadījums aiz kursora pozīcijas tiek arī atlasīts."
 
 #. (itstool) path: section/para
 #: C/index.docbook:526
@@ -749,6 +897,10 @@ msgid ""
 "</keycombo>. Press <keycombo> <keycap>Ctrl</keycap> <keycap>Shift</keycap> "
 "<keycap>G</keycap> </keycombo> to go back to the previous match."
 msgstr ""
+"Lai, neaizverot inkrementālās meklēšanas lodziņu, pārietu uz nākamo "
+"atbilsmi, nospiediet <keycombo> <keycap>Ctrl</keycap> <keycap>G</keycap> </"
+"keycombo>. Lai atgrieztos pie iepriekšējās atbilsmes, nospiediet <keycombo> "
+"<keycap>Ctrl</keycap> <keycap>Shift</keycap> <keycap>G</keycap> </keycombo>."
 
 #. (itstool) path: tip/para
 #: C/index.docbook:535
@@ -756,11 +908,13 @@ msgid ""
 "You can also use the up and down arrow keys or the mouse wheel to move the "
 "selection between matches."
 msgstr ""
+"Atlasi starp atbilsmēm var pārvietot arī ar bulttaustiņiem uz augšu un uz "
+"leju vai ar peles ritenīti."
 
 #. (itstool) path: info/title
 #: C/index.docbook:542
 msgid "Replacing Text"
-msgstr ""
+msgstr "Teksta aizstāšana"
 
 #. (itstool) path: section/para
 #: C/index.docbook:544
@@ -768,6 +922,7 @@ msgid ""
 "To search a file for a string, and replace the string with an alternative "
 "string, perform the following steps:"
 msgstr ""
+"Lai failā atrastu virkni un aizstātu to ar citu virkni, veiciet šīs darbības:"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:547
@@ -776,6 +931,9 @@ msgid ""
 "<guimenuitem>Replace</guimenuitem> </menuchoice> to display the "
 "<guilabel>Replace</guilabel> dialog."
 msgstr ""
+"Izvēlieties <menuchoice> <guimenu>Meklēt</guimenu> <guimenuitem>Aizstāt</"
+"guimenuitem> </menuchoice>, lai parādītu dialoglodziņu <guilabel>Aizstāt</"
+"guilabel>."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:553
@@ -784,6 +942,9 @@ msgid ""
 "for</guilabel> field. You can include special characters such as a new line "
 "or tab: see <xref linkend=\"pluma-find-escapes\"/>."
 msgstr ""
+"Laukā <guilabel>Meklēt</guilabel> ievadiet meklējamo virkni. Var iekļaut arī "
+"īpašas rakstzīmes, piemēram, jaunas rindas vai tabulācijas rakstzīmi — "
+"skatiet <xref linkend=\"pluma-find-escapes\"/>."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:556
@@ -791,6 +952,8 @@ msgid ""
 "Type the string that you want to use to replace the string that you find, in"
 " the <guilabel>Replace with</guilabel> field."
 msgstr ""
+"Laukā <guilabel>Aizstāt ar</guilabel> ievadiet virkni, ar kuru aizstāt "
+"atrasto virkni."
 
 #. (itstool) path: section/para
 #: C/index.docbook:560
@@ -802,6 +965,11 @@ msgid ""
 "string. To find the next occurrence of the string, click "
 "<guibutton>Find</guibutton> again."
 msgstr ""
+"Lai pirms aizstāšanas pārbaudītu katru virknes gadījumu, noklikšķiniet uz "
+"<guibutton>Meklēt</guibutton>. Ja <application>pluma</application> atrod "
+"virkni, tā tiek atlasīta. Lai aizstātu atlasīto virknes gadījumu, "
+"noklikšķiniet uz <guibutton>Aizstāt</guibutton>. Lai atrastu nākamo "
+"gadījumu, vēlreiz noklikšķiniet uz <guibutton>Meklēt</guibutton>."
 
 #. (itstool) path: section/para
 #: C/index.docbook:561
@@ -809,11 +977,13 @@ msgid ""
 "To replace all occurrences of the string throughout the document, click "
 "<guibutton>Replace All</guibutton>."
 msgstr ""
+"Lai aizstātu visus virknes gadījumus visā dokumentā, noklikšķiniet uz "
+"<guibutton>Aizstāt visus</guibutton>."
 
 #. (itstool) path: info/title
 #: C/index.docbook:567
 msgid "Find and Replace Options"
-msgstr ""
+msgstr "Meklēšanas un aizstāšanas iespējas"
 
 #. (itstool) path: section/para
 #: C/index.docbook:570
@@ -821,6 +991,8 @@ msgid ""
 "The <guilabel>Find</guilabel> dialog and the <guilabel>Replace</guilabel> "
 "dialog both have the following options:"
 msgstr ""
+"Gan dialoglodziņā <guilabel>Meklēt</guilabel>, gan <guilabel>Aizstāt</"
+"guilabel> ir šādas iespējas:"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:573
@@ -830,6 +1002,10 @@ msgid ""
 "with <guilabel>Match case</guilabel> selected, \"TEXT\" will not match "
 "\"text\"."
 msgstr ""
+"Atlasiet iespēju <guilabel>Reģistrjutīgi</guilabel>, lai atrastu tikai tos "
+"virknes gadījumus, kuros lielie un mazie burti sakrīt ar ievadīto tekstu. "
+"Piemēram, ja <guilabel>Reģistrjutīgi</guilabel> ir atlasīts, „TEXT” "
+"neatbilst „text”."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:576
@@ -839,6 +1015,10 @@ msgid ""
 "type. For example, with <guilabel>Match entire word only</guilabel> "
 "selected, \"text\" will not match \"texture\"."
 msgstr ""
+"Atlasiet iespēju <guilabel>Tikai veseli vārdi</guilabel>, lai atrastu tikai "
+"tos virknes gadījumus, kas atbilst veseliem ievadītā teksta vārdiem. "
+"Piemēram, ja <guilabel>Tikai veseli vārdi</guilabel> ir atlasīts, „text” "
+"neatbilst „texture”."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:579
@@ -846,6 +1026,8 @@ msgid ""
 "Select the <guilabel>Search backwards</guilabel> option to search backwards "
 "towards the beginning of the document."
 msgstr ""
+"Atlasiet iespēju <guilabel>Meklēt atpakaļ</guilabel>, lai meklētu atpakaļ — "
+"dokumenta sākuma virzienā."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:582
@@ -853,11 +1035,13 @@ msgid ""
 "Select the <guilabel>Wrap around</guilabel> option to search to one end of "
 "the document and then continue the search from the other end of the file."
 msgstr ""
+"Atlasiet iespēju <guilabel>Meklēt cikliski</guilabel>, lai meklētu līdz "
+"dokumenta vienam galam un pēc tam turpinātu meklēšanu no otra faila gala."
 
 #. (itstool) path: info/title
 #: C/index.docbook:590
 msgid "Special Characters"
-msgstr ""
+msgstr "Īpašās rakstzīmes"
 
 #. (itstool) path: section/para
 #: C/index.docbook:593
@@ -865,41 +1049,43 @@ msgid ""
 "You can include the following escape sequences in the text to find or "
 "replace to represent special characters:"
 msgstr ""
+"Lai meklējamajā vai aizstājamajā tekstā apzīmētu īpašas rakstzīmes, var "
+"izmantot šīs atsoļa secības:"
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:596
 msgid "<literal>\\n</literal>"
-msgstr ""
+msgstr "<literal>\\n</literal>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:600
 msgid "Specifies a new line."
-msgstr ""
+msgstr "Apzīmē jaunu rindu."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:604
 msgid "<literal>\\t</literal>"
-msgstr ""
+msgstr "<literal>\\t</literal>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:608
 msgid "Specifies a tab character."
-msgstr ""
+msgstr "Apzīmē tabulācijas rakstzīmi."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:612
 msgid "<literal>\\r</literal>"
-msgstr ""
+msgstr "<literal>\\r</literal>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:616
 msgid "Specifies a carriage return."
-msgstr ""
+msgstr "Apzīmē rakstatgriezi."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:620
 msgid "<literal>\\\\</literal>"
-msgstr ""
+msgstr "<literal>\\\\</literal>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:624
@@ -910,11 +1096,15 @@ msgid ""
 "field. Or if you are looking for a sequence of backslashes, you will have to"
 " double the number of searched backslashes."
 msgstr ""
+"Ja meklējat pašu apgriezto slīpsvītru, arī tā jāievada kā atsoļa secība. "
+"Piemēram, ja meklējat tekstu „<literal>\\n</literal>”, laukā <guilabel>"
+"Meklēt</guilabel> jāievada „\\\\n”. Ja meklējat apgriezto slīpsvītru virkni, "
+"meklējamo apgriezto slīpsvītru skaits jādubulto."
 
 #. (itstool) path: info/title
 #: C/index.docbook:637
 msgid "Positioning the Cursor on a Specific Line"
-msgstr ""
+msgstr "Kursora novietošana noteiktā rindā"
 
 #. (itstool) path: section/para
 #: C/index.docbook:639
@@ -923,6 +1113,10 @@ msgid ""
 "<menuchoice> <guimenu>Search</guimenu> <guimenuitem>Go to Line</guimenuitem>"
 " </menuchoice>. The line number box appears at the top of the display area."
 msgstr ""
+"Lai novietotu kursoru noteiktā pašreizējā faila rindā, izvēlieties "
+"<menuchoice> <guimenu>Meklēt</guimenu> <guimenuitem>Pāriet uz rindu</"
+"guimenuitem> </menuchoice>. Attēlošanas apgabala augšdaļā parādās rindas "
+"numura lodziņš."
 
 #. (itstool) path: section/para
 #: C/index.docbook:640
@@ -930,6 +1124,8 @@ msgid ""
 "Begin typing the number of the line that you want to move the cursor to and "
 "the document will scroll to the specified line."
 msgstr ""
+"Sāciet rakstīt tās rindas numuru, uz kuru vēlaties pārvietot kursoru, — "
+"dokuments tiks ritināts līdz norādītajai rindai."
 
 #. (itstool) path: section/para
 #: C/index.docbook:641
@@ -937,16 +1133,18 @@ msgid ""
 "To dismiss the box and move the cursor to the specified line, press "
 "<keycap>Return</keycap>."
 msgstr ""
+"Lai aizvērtu lodziņu un pārvietotu kursoru uz norādīto rindu, nospiediet "
+"<keycap>Enter</keycap>."
 
 #. (itstool) path: info/title
 #: C/index.docbook:647
 msgid "Printing"
-msgstr ""
+msgstr "Drukāšana"
 
 #. (itstool) path: info/title
 #: C/index.docbook:653
 msgid "Setting the Page Options"
-msgstr ""
+msgstr "Lappuses iespēju iestatīšana"
 
 #. (itstool) path: section/para
 #: C/index.docbook:656
@@ -955,6 +1153,9 @@ msgid ""
 "<guimenuitem>Page Setup</guimenuitem> </menuchoice> to display the "
 "<guilabel>Page Setup</guilabel> dialog."
 msgstr ""
+"Lai iestatītu lappuses iespējas, izvēlieties <menuchoice> <guimenu>Fails</"
+"guimenu> <guimenuitem>Lappuses iestatīšana</guimenuitem> </menuchoice> — "
+"tiek parādīts dialoglodziņš <guilabel>Lappuses iestatīšana</guilabel>."
 
 #. (itstool) path: section/para
 #: C/index.docbook:658
@@ -962,16 +1163,18 @@ msgid ""
 "The <guilabel>Page Setup</guilabel> dialog enables you to specify the "
 "following print options:"
 msgstr ""
+"Dialoglodziņā <guilabel>Lappuses iestatīšana</guilabel> var norādīt šādas "
+"drukāšanas iespējas:"
 
 #. (itstool) path: info/title
 #: C/index.docbook:662
 msgid "General Tabbed Section"
-msgstr ""
+msgstr "Cilne „Vispārīgi”"
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:666
 msgid "<guilabel>Print syntax highlighting</guilabel>"
-msgstr ""
+msgstr "<guilabel>Drukāt sintakses izcēlumu</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:670
@@ -979,11 +1182,13 @@ msgid ""
 "Select this option to print syntax highlighting. For more information about "
 "syntax highlighting, see <xref linkend=\"pluma-set-highlightmode\"/>."
 msgstr ""
+"Atlasiet šo iespēju, lai drukātu sintakses izcēlumu. Plašāku informāciju par "
+"sintakses izcēlumu skatiet <xref linkend=\"pluma-set-highlightmode\"/>."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:674
 msgid "<guilabel>Print page headers</guilabel>"
-msgstr ""
+msgstr "<guilabel>Drukāt lapu galvenes</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:678
@@ -991,11 +1196,13 @@ msgid ""
 "Select this option to include a header on each page that you print. You "
 "cannot configure the header."
 msgstr ""
+"Atlasiet šo iespēju, lai katrā izdrukātajā lappusē būtu galvene. Galveni "
+"iestatīt nevar."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:682 C/index.docbook:1630
 msgid "<guilabel>Line Numbers</guilabel>"
-msgstr ""
+msgstr "<guilabel>Rindu numuri</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:686
@@ -1003,6 +1210,8 @@ msgid ""
 "Select the <guilabel>Print line numbers</guilabel> option to include line "
 "numbers when you print a file."
 msgstr ""
+"Atlasiet iespēju <guilabel>Drukāt rindu numurus</guilabel>, lai drukājot "
+"failu tiktu drukāti rindu numuri."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:687
@@ -1011,11 +1220,13 @@ msgid ""
 " often to print the line numbers, for example every 5 lines, every 10 lines,"
 " and so on."
 msgstr ""
+"Skaitļa laukā <guilabel>Numurēt ik pēc ... rindām </guilabel> norādiet, cik "
+"bieži drukāt rindu numurus, piemēram, ik pēc 5 rindām, ik pēc 10 rindām utt."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:691 C/index.docbook:1621
 msgid "<guilabel>Text Wrapping</guilabel>"
-msgstr ""
+msgstr "<guilabel>Teksta aplaušana</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:695
@@ -1024,6 +1235,9 @@ msgid ""
 "onto the next line, at a character level, when you print a file. The "
 "application counts wrapped lines as one line for line numbering purposes."
 msgstr ""
+"Atlasiet iespēju <guilabel>Iespējot teksta aplaušanu</guilabel>, lai, "
+"drukājot failu, teksts tiktu pārnests nākamajā rindā rakstzīmju līmenī. "
+"Rindu numerācijā aplauztās rindas tiek skaitītas kā viena rinda."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:696
@@ -1031,6 +1245,8 @@ msgid ""
 "Select the <guilabel>Do not split words over two lines</guilabel> option to "
 "wrap text onto the next line, at a word level, when you print a file."
 msgstr ""
+"Atlasiet iespēju <guilabel>Nedalīt vārdus divās rindās</guilabel>, lai, "
+"drukājot failu, teksts tiktu pārnests nākamajā rindā vārdu līmenī."
 
 #. (itstool) path: info/title
 #: C/index.docbook:704
@@ -1040,7 +1256,7 @@ msgstr "Fonti"
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:708
 msgid "<guilabel>Body</guilabel>"
-msgstr ""
+msgstr "<guilabel>Pamatteksts</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:712
@@ -1048,21 +1264,23 @@ msgid ""
 "Click on this button to select the font used to print the body text of a "
 "file."
 msgstr ""
+"Noklikšķiniet uz šīs pogas, lai izvēlētos fontu faila pamatteksta drukāšanai."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:716
 msgid "<guilabel>Line numbers</guilabel>"
-msgstr ""
+msgstr "<guilabel>Rindu numuri</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:720
 msgid "Click on this button to select the font used to print line numbers."
 msgstr ""
+"Noklikšķiniet uz šīs pogas, lai izvēlētos fontu rindu numuru drukāšanai."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:724
 msgid "<guilabel>Headers and footers</guilabel>"
-msgstr ""
+msgstr "<guilabel>Galvenes un kājenes</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:728
@@ -1070,6 +1288,8 @@ msgid ""
 "Click on this button to select the font to use to print the headers and "
 "footers in a file."
 msgstr ""
+"Noklikšķiniet uz šīs pogas, lai izvēlētos fontu faila galveņu un kājeņu "
+"drukāšanai."
 
 #. (itstool) path: section/para
 #: C/index.docbook:732
@@ -1078,11 +1298,14 @@ msgid ""
 "<application>pluma</application>, click <guibutton>Restore Default "
 "Fonts</guibutton>."
 msgstr ""
+"Lai atjaunotu noklusējuma fontus, ar kuriem <application>pluma</application> "
+"drukā failus, noklikšķiniet uz <guibutton>Atjaunot noklusējuma fontus</"
+"guibutton>."
 
 #. (itstool) path: info/title
 #: C/index.docbook:739
 msgid "Printing a Document"
-msgstr ""
+msgstr "Dokumenta drukāšana"
 
 #. (itstool) path: section/para
 #: C/index.docbook:741
@@ -1090,16 +1313,17 @@ msgid ""
 "You can use <application>pluma</application> to perform the following print "
 "operations:"
 msgstr ""
+"Ar <application>pluma</application> var veikt šādas drukāšanas darbības:"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:744
 msgid "Print a document to a printer."
-msgstr ""
+msgstr "Drukāt dokumentu printerī."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:747
 msgid "Print the output of the print command to a file."
-msgstr ""
+msgstr "Drukāt drukāšanas komandas izvadi failā."
 
 #. (itstool) path: section/para
 #: C/index.docbook:750
@@ -1108,6 +1332,9 @@ msgid ""
 " the file to a pre-press format file. The most common pre-press formats are "
 "PostScript and Portable Document Format (PDF)."
 msgstr ""
+"Ja drukājat failā, <application>pluma</application> izvadi saglabā failā "
+"pirmsdrukas formātā. Visizplatītākie pirmsdrukas formāti ir PostScript un "
+"Portable Document Format (PDF)."
 
 #. (itstool) path: section/para
 #: C/index.docbook:751
@@ -1116,6 +1343,9 @@ msgid ""
 "<guimenu>File</guimenu> <guimenuitem>Print Preview</guimenuitem> "
 "</menuchoice>."
 msgstr ""
+"Lai priekšskatītu drukājamās lappuses, izvēlieties <menuchoice> <guimenu>"
+"Fails</guimenu> <guimenuitem>Drukāšanas priekšskatījums</guimenuitem> </"
+"menuchoice>."
 
 #. (itstool) path: section/para
 #: C/index.docbook:752
@@ -1124,6 +1354,9 @@ msgid ""
 "<guimenu>File</guimenu> <guimenuitem>Print</guimenuitem> </menuchoice> to "
 "display the <guilabel>Print</guilabel> dialog."
 msgstr ""
+"Lai drukātu pašreizējo failu printerī vai failā, izvēlieties <menuchoice> "
+"<guimenu>Fails</guimenu> <guimenuitem>Drukāt</guimenuitem> </menuchoice> — "
+"tiek parādīts dialoglodziņš <guilabel>Drukāt</guilabel>."
 
 #. (itstool) path: section/para
 #: C/index.docbook:753
@@ -1131,37 +1364,39 @@ msgid ""
 "The <guilabel>Print</guilabel> dialog enables you to specify the following "
 "print options:"
 msgstr ""
+"Dialoglodziņā <guilabel>Drukāt</guilabel> var norādīt šādas drukāšanas "
+"iespējas:"
 
 #. (itstool) path: info/title
 #: C/index.docbook:757
 msgid "Job Tabbed Section"
-msgstr ""
+msgstr "Cilne „Darbs”"
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:761
 msgid "<guilabel>Print range</guilabel>"
-msgstr ""
+msgstr "<guilabel>Drukāšanas diapazons</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:765
 msgid ""
 "Select one of the following options to determine how many pages to print:"
-msgstr ""
+msgstr "Izvēlieties kādu no šīm iespējām, lai noteiktu, cik lappušu drukāt:"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:768
 msgid "<guilabel>All</guilabel>"
-msgstr ""
+msgstr "<guilabel>Visas</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:771
 msgid "Select this option to print all the pages in the file."
-msgstr ""
+msgstr "Izvēlieties šo iespēju, lai drukātu visas faila lappuses."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:774
 msgid "<guilabel>Lines</guilabel>"
-msgstr ""
+msgstr "<guilabel>Rindas</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:777
@@ -1170,11 +1405,13 @@ msgid ""
 "<guilabel>From</guilabel> and <guilabel>To</guilabel> spin boxes to specify "
 "the line range."
 msgstr ""
+"Izvēlieties šo iespēju, lai drukātu tikai norādītās rindas. Rindu diapazonu "
+"norādiet skaitļa laukos <guilabel>No</guilabel> un <guilabel>Līdz</guilabel>."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:780
 msgid "<guilabel>Selection</guilabel>"
-msgstr ""
+msgstr "<guilabel>Atlase</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:783
@@ -1182,11 +1419,13 @@ msgid ""
 "Select this option to print the selected text only. This option is only "
 "available if you select text."
 msgstr ""
+"Izvēlieties šo iespēju, lai drukātu tikai atlasīto tekstu. Šī iespēja "
+"pieejama tikai tad, ja ir atlasīts teksts."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:789
 msgid "<guilabel>Copies</guilabel>"
-msgstr ""
+msgstr "<guilabel>Kopijas</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:793
@@ -1194,6 +1433,8 @@ msgid ""
 "Use the <guilabel>Number of copies</guilabel> spin box to specify the number"
 " of copies of the file that you want to print."
 msgstr ""
+"Skaitļa laukā <guilabel>Kopiju skaits</guilabel> norādiet, cik faila kopiju "
+"drukāt."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:794
@@ -1201,33 +1442,35 @@ msgid ""
 "If you print multiple copies of the file, select the "
 "<guilabel>Collate</guilabel> option to collate the printed copies."
 msgstr ""
+"Ja drukājat vairākas faila kopijas, atlasiet iespēju <guilabel>Sakārtot</"
+"guilabel>, lai izdrukātās kopijas būtu sakārtotas pa eksemplāriem."
 
 #. (itstool) path: info/title
 #: C/index.docbook:802
 msgid "Printer Tabbed Section"
-msgstr ""
+msgstr "Cilne „Printeris”"
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:807
 msgid "<guilabel>Printer</guilabel>"
-msgstr ""
+msgstr "<guilabel>Printeris</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:811
 msgid ""
 "Use this drop-down list to select the printer to which you want to print the"
 " file."
-msgstr ""
+msgstr "Šajā nolaižamajā sarakstā atlasiet printeri, ar kuru drukāt failu."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:815
 msgid "<guilabel>Settings</guilabel>"
-msgstr ""
+msgstr "<guilabel>Iestatījumi</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:819
 msgid "Use this drop-down list to select the printer settings."
-msgstr ""
+msgstr "Šajā nolaižamajā sarakstā atlasiet printera iestatījumus."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:820
@@ -1236,27 +1479,30 @@ msgid ""
 "example, you can enable or disable duplex printing, or schedule delayed "
 "printing, if this functionality is supported by the printer."
 msgstr ""
+"Lai iestatītu printeri, noklikšķiniet uz <guibutton>Konfigurēt</guibutton>. "
+"Piemēram, var iespējot vai atspējot divpusējo drukāšanu vai ieplānot atliktu "
+"drukāšanu, ja printeris to atbalsta."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:824
 msgid "<guilabel>Location</guilabel>"
-msgstr ""
+msgstr "<guilabel>Atrašanās vieta</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:828
 msgid ""
 "Use this drop-down list to select one of the following print destinations:"
-msgstr ""
+msgstr "Šajā nolaižamajā sarakstā atlasiet kādu no šiem drukāšanas mērķiem:"
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:831
 msgid "<guilabel>CUPS</guilabel>"
-msgstr ""
+msgstr "<guilabel>CUPS</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:835
 msgid "Print the file to a CUPS printer."
-msgstr ""
+msgstr "Drukāt failu CUPS printerī."
 
 #. (itstool) path: note/para
 #: C/index.docbook:837
@@ -1264,26 +1510,28 @@ msgid ""
 "If the selected printer is a CUPS printer, <guilabel>CUPS</guilabel> is the "
 "only entry in this drop-down list."
 msgstr ""
+"Ja atlasītais printeris ir CUPS printeris, <guilabel>CUPS</guilabel> ir "
+"vienīgais vienums šajā nolaižamajā sarakstā."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:842
 msgid "<guilabel>lpr</guilabel>"
-msgstr ""
+msgstr "<guilabel>lpr</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:846
 msgid "Print the file to a printer."
-msgstr ""
+msgstr "Drukāt failu printerī."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:850
 msgid "<guilabel>File</guilabel>"
-msgstr ""
+msgstr "<guilabel>Fails</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:854
 msgid "Print the file to a PostScript file."
-msgstr ""
+msgstr "Drukāt failu PostScript failā."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:855
@@ -1291,16 +1539,18 @@ msgid ""
 "Click <guibutton>Save As</guibutton> to display a dialog where you specify "
 "the name and location of the PostScript file."
 msgstr ""
+"Noklikšķiniet uz <guibutton>Saglabāt kā</guibutton>, lai atvērtu "
+"dialoglodziņu, kurā jānorāda PostScript faila nosaukums un atrašanās vieta."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:859
 msgid "<guilabel>Custom</guilabel>"
-msgstr ""
+msgstr "<guilabel>Pielāgots</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:863
 msgid "Use the specified command to print the file."
-msgstr ""
+msgstr "Drukāt failu ar norādīto komandu."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:864
@@ -1308,48 +1558,50 @@ msgid ""
 "Type the name of the command in the text box. Include all command-line "
 "arguments."
 msgstr ""
+"Teksta lodziņā ievadiet komandas nosaukumu. Iekļaujiet visus komandrindas "
+"argumentus."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:871
 msgid "<guilabel>State</guilabel>"
-msgstr ""
+msgstr "<guilabel>Stāvoklis</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:875 C/index.docbook:883 C/index.docbook:891
 msgid "This functionality is not supported in this version of pluma."
-msgstr ""
+msgstr "Šajā pluma versijā šī funkcija netiek atbalstīta."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:879
 msgid "<guilabel>Type</guilabel>"
-msgstr ""
+msgstr "<guilabel>Veids</guilabel>"
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:887
 msgid "<guilabel>Comment</guilabel>"
-msgstr ""
+msgstr "<guilabel>Komentārs</guilabel>"
 
 #. (itstool) path: info/title
 #: C/index.docbook:899
 msgid "Paper Tabbed Section"
-msgstr ""
+msgstr "Cilne „Papīrs”"
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:904
 msgid "<guilabel>Paper size</guilabel>"
-msgstr ""
+msgstr "<guilabel>Papīra izmērs</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:908
 msgid ""
 "Use this drop-down list to select the size of the paper to which you want to"
 " print the file."
-msgstr ""
+msgstr "Šajā nolaižamajā sarakstā atlasiet papīra izmēru, uz kura drukāt failu."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:912
 msgid "<guilabel>Width</guilabel>"
-msgstr ""
+msgstr "<guilabel>Platums</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:916
@@ -1357,43 +1609,45 @@ msgid ""
 "Use this spin box to specify the width of the paper. Use the adjacent drop-"
 "down list to change the measurement unit."
 msgstr ""
+"Šajā skaitļa laukā norādiet papīra platumu. Blakus esošajā nolaižamajā "
+"sarakstā var mainīt mērvienību."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:920
 msgid "<guilabel>Height</guilabel>"
-msgstr ""
+msgstr "<guilabel>Augstums</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:924
 msgid "Use this spin box to specify the height of the paper."
-msgstr ""
+msgstr "Šajā skaitļa laukā norādiet papīra augstumu."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:928
 msgid "<guilabel>Feed orientation</guilabel>"
-msgstr ""
+msgstr "<guilabel>Padeves orientācija</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:932
 msgid ""
 "Use this drop-down list to select the orientation of the paper in the "
 "printer."
-msgstr ""
+msgstr "Šajā nolaižamajā sarakstā atlasiet papīra orientāciju printerī."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:936
 msgid "<guilabel>Page orientation</guilabel>"
-msgstr ""
+msgstr "<guilabel>Lappuses orientācija</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:940
 msgid "Use this drop-down list to select the page orientation."
-msgstr ""
+msgstr "Šajā nolaižamajā sarakstā atlasiet lappuses orientāciju."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:944
 msgid "<guilabel>Layout</guilabel>"
-msgstr ""
+msgstr "<guilabel>Izkārtojums</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:948
@@ -1401,21 +1655,24 @@ msgid ""
 "Use this drop-down list to select the page layout. A preview of each layout "
 "that you select is displayed in the <guilabel>Preview</guilabel> area."
 msgstr ""
+"Šajā nolaižamajā sarakstā atlasiet lappuses izkārtojumu. Atlasītā "
+"izkārtojuma priekšskatījums redzams apgabalā <guilabel>Priekšskatījums</"
+"guilabel>."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:952
 msgid "<guilabel>Paper tray</guilabel>"
-msgstr ""
+msgstr "<guilabel>Papīra paplāte</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:956
 msgid "Use this drop-down list to select the paper tray."
-msgstr ""
+msgstr "Šajā nolaižamajā sarakstā atlasiet papīra paplāti."
 
 #. (itstool) path: info/title
 #: C/index.docbook:966
 msgid "Programming Features"
-msgstr ""
+msgstr "Programmēšanas iespējas"
 
 #. (itstool) path: section/para
 #: C/index.docbook:968
@@ -1425,6 +1682,10 @@ msgid ""
 "commonly-used tags for different markup languages: see <xref "
 "linkend=\"pluma-tag-list-plugin\"/>."
 msgstr ""
+"Vairākas <application>pluma</application> programmēšanas iespējas nodrošina "
+"spraudņi. Piemēram, spraudnis „Birku saraksts” piedāvā dažādu iezīmēšanas "
+"valodu biežāk lietoto birku sarakstu — skatiet <xref linkend=\"pluma-tag-"
+"list-plugin\"/>."
 
 #. (itstool) path: info/title
 #: C/index.docbook:973
@@ -1437,6 +1698,8 @@ msgid ""
 "Syntax highlighting makes source code easier to read by showing different "
 "parts of the text in different colors."
 msgstr ""
+"Sintakses izcelšana atvieglo pirmkoda lasīšanu, rādot dažādas teksta daļas "
+"dažādās krāsās."
 
 #. (itstool) path: section/para
 #: C/index.docbook:977
@@ -1447,21 +1710,25 @@ msgid ""
 "Mode</guimenuitem> </menuchoice>, then choose one of the following menu "
 "items:"
 msgstr ""
+"<application>pluma</application> izvēlas piemērotu sintakses izcelšanas "
+"režīmu atbilstoši dokumenta tipam. Lai to mainītu, izvēlieties <menuchoice> "
+"<guimenu>Skats</guimenu> <guimenuitem>Izcelšanas režīms</guimenuitem> </"
+"menuchoice> un pēc tam kādu no šiem izvēlnes vienumiem:"
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:980
 msgid "<guimenuitem>Normal</guimenuitem>"
-msgstr ""
+msgstr "<guimenuitem>Parasts</guimenuitem>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:984
 msgid "Do not display any syntax highlighting."
-msgstr ""
+msgstr "Nerādīt sintakses izcelšanu."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:988
 msgid "<guisubmenu>Sources</guisubmenu>"
-msgstr ""
+msgstr "<guisubmenu>Pirmkodi</guisubmenu>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:992
@@ -1469,11 +1736,13 @@ msgid ""
 "Display syntax highlighting to edit source code. Use the "
 "<guisubmenu>Sources</guisubmenu> submenu to select the source code type."
 msgstr ""
+"Rādīt sintakses izcelšanu pirmkoda rediģēšanai. Apakšizvēlnē <guisubmenu>"
+"Pirmkodi</guisubmenu> atlasiet pirmkoda veidu."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:996
 msgid "<guisubmenu>Markup</guisubmenu>"
-msgstr ""
+msgstr "<guisubmenu>Iezīmēšana</guisubmenu>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1000
@@ -1481,11 +1750,13 @@ msgid ""
 "Display syntax highlighting to edit markup code. Use the "
 "<guisubmenu>Markup</guisubmenu> submenu to select the markup code type."
 msgstr ""
+"Rādīt sintakses izcelšanu iezīmēšanas koda rediģēšanai. Apakšizvēlnē "
+"<guisubmenu>Iezīmēšana</guisubmenu> atlasiet iezīmēšanas koda veidu."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:1004
 msgid "<guisubmenu>Scripts</guisubmenu>"
-msgstr ""
+msgstr "<guisubmenu>Skripti</guisubmenu>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1008
@@ -1493,11 +1764,13 @@ msgid ""
 "Display syntax highlighting to edit script code. Use the "
 "<guisubmenu>Scripts</guisubmenu> submenu to select the script code type."
 msgstr ""
+"Rādīt sintakses izcelšanu skriptu koda rediģēšanai. Apakšizvēlnē <guisubmenu>"
+"Skripti</guisubmenu> atlasiet skripta koda veidu."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:1012
 msgid "<guisubmenu>Others</guisubmenu>"
-msgstr ""
+msgstr "<guisubmenu>Citi</guisubmenu>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1016
@@ -1505,11 +1778,13 @@ msgid ""
 "Display syntax highlighting to edit other types of code. Use the "
 "<guisubmenu>Others</guisubmenu> submenu to select the code type."
 msgstr ""
+"Rādīt sintakses izcelšanu citu veidu koda rediģēšanai. Apakšizvēlnē "
+"<guisubmenu>Citi</guisubmenu> atlasiet koda veidu."
 
 #. (itstool) path: info/title
 #: C/index.docbook:1025
 msgid "Piping the Output of a Command to a File"
-msgstr ""
+msgstr "Komandas izvades novadīšana failā"
 
 #. (itstool) path: section/para
 #: C/index.docbook:1027
@@ -1519,6 +1794,10 @@ msgid ""
 " command to a text file, type <command>ls | pluma</command>, then press "
 "<keycap>Return</keycap>."
 msgstr ""
+"Ar <application>pluma</application> komandas izvadi var novadīt teksta "
+"failā. Piemēram, lai komandas <command>ls</command> izvadi novadītu teksta "
+"failā, ievadiet <command>ls | pluma</command> un nospiediet <keycap>Enter</"
+"keycap>."
 
 #. (itstool) path: section/para
 #: C/index.docbook:1028
@@ -1526,6 +1805,8 @@ msgid ""
 "The output of the <command>ls</command> command is displayed in a new text "
 "file in the <application>pluma</application> window."
 msgstr ""
+"Komandas <command>ls</command> izvade tiek parādīta jaunā teksta failā "
+"<application>pluma</application> logā."
 
 #. (itstool) path: section/para
 #: C/index.docbook:1029
@@ -1533,11 +1814,13 @@ msgid ""
 "Alternatively, you can use the <application>External tools</application> "
 "plugin to pipe command output to the current file."
 msgstr ""
+"Komandas izvadi pašreizējā failā var novadīt arī ar spraudni <application>"
+"Ārējie rīki</application>."
 
 #. (itstool) path: info/title
 #: C/index.docbook:1036
 msgid "Shortcut Keys"
-msgstr ""
+msgstr "Īsinājumtaustiņi"
 
 #. (itstool) path: section/para
 #: C/index.docbook:1038
@@ -1546,6 +1829,9 @@ msgid ""
 "and menus. The following tables list all of "
 "<application>pluma</application>'s shortcut keys."
 msgstr ""
+"Ar īsinājumtaustiņiem biežākos uzdevumus var veikt ātrāk nekā ar peli un "
+"izvēlnēm. Tālāk tabulās uzskaitīti visi <application>pluma</application> "
+"īsinājumtaustiņi."
 
 #. (itstool) path: section/para
 #: C/index.docbook:1039
@@ -1553,23 +1839,26 @@ msgid ""
 "For more on shortcut keys, see the <link xlink:href=\"help:mate-user-"
 "guide/keyboard-skills\">Desktop User Guide</link>."
 msgstr ""
+"Plašāku informāciju par īsinājumtaustiņiem skatiet <link "
+"xlink:href=\"help:mate-user-guide/keyboard-skills\">Darbvirsmas lietotāja "
+"rokasgrāmatā</link>."
 
 #. (itstool) path: section/bridgehead
 #: C/index.docbook:1042
 msgid "Tabs"
-msgstr "Cil_nes"
+msgstr "Cilnes"
 
 #. (itstool) path: section/para
 #: C/index.docbook:1043
 msgid "Shortcuts for tabs:"
-msgstr ""
+msgstr "Īsinājumtaustiņi darbam ar cilnēm:"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1051 C/index.docbook:1121 C/index.docbook:1207
 #: C/index.docbook:1349 C/index.docbook:1379 C/index.docbook:1417
 #: C/index.docbook:1495 C/index.docbook:1565
 msgid "Shortcut Key"
-msgstr ""
+msgstr "Īsinājumtaustiņš"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1054 C/index.docbook:1124 C/index.docbook:1210
@@ -1581,147 +1870,147 @@ msgstr "Komanda"
 #. (itstool) path: entry/para
 #: C/index.docbook:1061
 msgid "Ctrl + Alt + PageUp"
-msgstr ""
+msgstr "Ctrl + Alt + PageUp"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1064
 msgid "Switches to the next tab to the left."
-msgstr ""
+msgstr "Pāriet uz nākamo cilni pa kreisi."
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1069
 msgid "Ctrl + Alt + PageDown"
-msgstr ""
+msgstr "Ctrl + Alt + PageDown"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1072
 msgid "Switches to the next tab to the right."
-msgstr ""
+msgstr "Pāriet uz nākamo cilni pa labi."
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1077 C/index.docbook:1179
 msgid "Ctrl + W"
-msgstr ""
+msgstr "Ctrl + W"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1080
 msgid "Close tab."
-msgstr ""
+msgstr "Aizvērt cilni."
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1085
 msgid "Ctrl + Shift + L"
-msgstr ""
+msgstr "Ctrl + Shift + L"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1088
 msgid "Save all tabs."
-msgstr ""
+msgstr "Saglabāt visas cilnes."
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1093
 msgid "Ctrl + Shift + W"
-msgstr ""
+msgstr "Ctrl + Shift + W"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1096
 msgid "Close all tabs."
-msgstr ""
+msgstr "Aizvērt visas cilnes."
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1101
 msgid "Alt + n"
-msgstr ""
+msgstr "Alt + n"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1104
 msgid "Jump to nth tab."
-msgstr ""
+msgstr "Pāriet uz n-to cilni."
 
 #. (itstool) path: section/bridgehead
 #: C/index.docbook:1112
 msgid "Files"
-msgstr "Faili"
+msgstr "Files"
 
 #. (itstool) path: section/para
 #: C/index.docbook:1113
 msgid "Shortcuts for working with files:"
-msgstr ""
+msgstr "Īsinājumtaustiņi darbam ar failiem:"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1131
 msgid "Ctrl + N"
-msgstr ""
+msgstr "Ctrl + N"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1134
 msgid "Create a new document."
-msgstr ""
+msgstr "Izveidot jaunu dokumentu."
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1139
 msgid "Ctrl + O"
-msgstr ""
+msgstr "Ctrl + O"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1142
 msgid "Open a document."
-msgstr ""
+msgstr "Atvērt dokumentu."
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1147
 msgid "Ctrl + S"
-msgstr ""
+msgstr "Ctrl + S"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1150
 msgid "Save the current document to disk."
-msgstr ""
+msgstr "Saglabāt pašreizējo dokumentu diskā."
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1155
 msgid "Ctrl + Shift + S"
-msgstr ""
+msgstr "Ctrl + Shift + S"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1158
 msgid "Save the current document with a new filename."
-msgstr ""
+msgstr "Saglabāt pašreizējo dokumentu ar jaunu faila nosaukumu."
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1163
 msgid "Ctrl + P"
-msgstr ""
+msgstr "Ctrl + P"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1166
 msgid "Print the current document."
-msgstr ""
+msgstr "Drukāt pašreizējo dokumentu."
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1171
 msgid "Ctrl + Shift + P"
-msgstr ""
+msgstr "Ctrl + Shift + P"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1174
 msgid "Print preview."
-msgstr ""
+msgstr "Drukāšanas priekšskatījums."
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1182
 msgid "Close the current document."
-msgstr ""
+msgstr "Aizvērt pašreizējo dokumentu."
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1187
 msgid "Ctrl + Q"
-msgstr ""
+msgstr "Ctrl + Q"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1190
 msgid "Quit Pluma."
-msgstr ""
+msgstr "Iziet no pluma."
 
 #. (itstool) path: section/bridgehead
 #: C/index.docbook:1198
@@ -1731,207 +2020,207 @@ msgstr "Rediģēt"
 #. (itstool) path: section/para
 #: C/index.docbook:1199
 msgid "Shortcuts for editing documents:"
-msgstr ""
+msgstr "Īsinājumtaustiņi dokumentu rediģēšanai:"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1217
 msgid "Ctrl + Z"
-msgstr ""
+msgstr "Ctrl + Z"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1220
 msgid "Undo the last action."
-msgstr ""
+msgstr "Atsaukt pēdējo darbību."
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1225
 msgid "Ctrl + Shift + Z"
-msgstr ""
+msgstr "Ctrl + Shift + Z"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1228
 msgid "Redo the last undone action ."
-msgstr ""
+msgstr "Atcelt pēdējo atsaukšanu."
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1233
 msgid "Ctrl + X"
-msgstr ""
+msgstr "Ctrl + X"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1236
 msgid "Cut the selected text or region and place it on the clipboard."
-msgstr ""
+msgstr "Izgriezt atlasīto tekstu vai apgabalu un ievietot to starpliktuvē."
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1241
 msgid "Ctrl + C"
-msgstr ""
+msgstr "Ctrl + C"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1244
 msgid "Copy the selected text or region onto the clipboard."
-msgstr ""
+msgstr "Kopēt atlasīto tekstu vai apgabalu starpliktuvē."
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1249
 msgid "Ctrl + V"
-msgstr ""
+msgstr "Ctrl + V"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1252
 msgid "Paste the contents of the clipboard."
-msgstr ""
+msgstr "Ielīmēt starpliktuves saturu."
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1257
 msgid "Ctrl + A"
-msgstr ""
+msgstr "Ctrl + A"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1260
 msgid "Select all."
-msgstr ""
+msgstr "Atlasīt visu."
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1265
 msgid "Ctrl + D"
-msgstr ""
+msgstr "Ctrl + D"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1268
 msgid "Delete current line."
-msgstr ""
+msgstr "Dzēst pašreizējo rindu."
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1273
 msgid "Ctrl + U"
-msgstr ""
+msgstr "Ctrl + U"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1276
 msgid "Change case to uppercase."
-msgstr ""
+msgstr "Pārvērst par lielajiem burtiem."
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1281
 msgid "Ctrl + L"
-msgstr ""
+msgstr "Ctrl + L"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1284
 msgid "Change case to lowercase."
-msgstr ""
+msgstr "Pārvērst par mazajiem burtiem."
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1289
 msgid "Alt + U"
-msgstr ""
+msgstr "Alt + U"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1292
 msgid "Toggle case of each character."
-msgstr ""
+msgstr "Apmainīt katras rakstzīmes reģistru."
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1297
 msgid "Alt + L"
-msgstr ""
+msgstr "Alt + L"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1300
 msgid "Capitalize each word."
-msgstr ""
+msgstr "Katru vārdu sākt ar lielo burtu."
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1305
 msgid "Alt + Up"
-msgstr ""
+msgstr "Alt + Augšup"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1308
 msgid "Move the selected line up one line."
-msgstr ""
+msgstr "Pārvietot atlasīto rindu vienu rindu augstāk."
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1313
 msgid "Alt + Down"
-msgstr ""
+msgstr "Alt + Lejup"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1316
 msgid "Move the selected line down one line."
-msgstr ""
+msgstr "Pārvietot atlasīto rindu vienu rindu zemāk."
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1321
 msgid "Tab"
-msgstr ""
+msgstr "Tab"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1324
 msgid "Increase indent of the selected lines."
-msgstr ""
+msgstr "Palielināt atlasīto rindu atkāpi."
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1329
 msgid "Shift + Tab"
-msgstr ""
+msgstr "Shift + Tab"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1332
 msgid "Decrease indent of the selected lines."
-msgstr ""
+msgstr "Samazināt atlasīto rindu atkāpi."
 
 #. (itstool) path: section/bridgehead
 #: C/index.docbook:1340
 msgid "View"
-msgstr "Skats"
+msgstr "View"
 
 #. (itstool) path: section/para
 #: C/index.docbook:1341
 msgid "Shortcuts for the current view:"
-msgstr ""
+msgstr "Īsinājumtaustiņi pašreizējam skatam:"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1359
 msgid "Ctrl + Y"
-msgstr ""
+msgstr "Ctrl + Y"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1362
 msgid "Show/hide line numbers."
-msgstr ""
+msgstr "Rādīt/paslēpt rindu numurus."
 
 #. (itstool) path: section/bridgehead
 #: C/index.docbook:1370
 msgid "Panes"
-msgstr ""
+msgstr "Rūtis"
 
 #. (itstool) path: section/para
 #: C/index.docbook:1371
 msgid "Shortcuts for showing and hiding panes:"
-msgstr ""
+msgstr "Īsinājumtaustiņi rūšu rādīšanai un paslēpšanai:"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1389
 msgid "F9"
-msgstr ""
+msgstr "F9"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1392
 msgid "Show/hide the side pane."
-msgstr ""
+msgstr "Rādīt/paslēpt sānu rūti."
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1397
 msgid "Ctrl + F9"
-msgstr ""
+msgstr "Ctrl + F9"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1400
 msgid "Show/hide the bottom pane."
-msgstr ""
+msgstr "Rādīt/paslēpt apakšējo paneli."
 
 #. (itstool) path: section/bridgehead
 #: C/index.docbook:1408
@@ -1941,147 +2230,147 @@ msgstr "Meklēt"
 #. (itstool) path: section/para
 #: C/index.docbook:1409
 msgid "Shortcuts for searching:"
-msgstr ""
+msgstr "Īsinājumtaustiņi meklēšanai:"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1427
 msgid "Ctrl + F"
-msgstr ""
+msgstr "Ctrl + F"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1430
 msgid "Find a string."
-msgstr ""
+msgstr "Meklēt virkni."
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1435
 msgid "Ctrl + G"
-msgstr ""
+msgstr "Ctrl + G"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1438
 msgid "Find the next instance of the string."
-msgstr ""
+msgstr "Meklēt nākamo virknes gadījumu."
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1443
 msgid "Ctrl + Shift + G"
-msgstr ""
+msgstr "Ctrl + Shift + G"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1446
 msgid "Find the previous instance of the string."
-msgstr ""
+msgstr "Meklēt iepriekšējo virknes gadījumu."
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1451
 msgid "Ctrl + K"
-msgstr ""
+msgstr "Ctrl + K"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1454
 msgid "Interactive search."
-msgstr ""
+msgstr "Inkrementālā meklēšana."
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1459
 msgid "Ctrl + H"
-msgstr ""
+msgstr "Ctrl + H"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1462
 msgid "Search and replace."
-msgstr ""
+msgstr "Meklēt un aizstāt."
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1467
 msgid "Ctrl + Shift + K"
-msgstr ""
+msgstr "Ctrl + Shift + K"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1470
 msgid "Clear highlight."
-msgstr ""
+msgstr "Notīrīt izcēlumu."
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1475
 msgid "Ctrl + I"
-msgstr ""
+msgstr "Ctrl + I"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1478
 msgid "Goto line."
-msgstr ""
+msgstr "Pāriet uz rindu."
 
 #. (itstool) path: section/bridgehead
 #: C/index.docbook:1486
 msgid "Tools"
-msgstr ""
+msgstr "Tools"
 
 #. (itstool) path: section/para
 #: C/index.docbook:1487
 msgid "Shortcuts for tools:"
-msgstr ""
+msgstr "Īsinājumtaustiņi rīkiem:"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1505
 msgid "Shift + F7"
-msgstr ""
+msgstr "Shift + F7"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1508
 msgid "Check spelling (with plugin)."
-msgstr ""
+msgstr "Pārbaudīt pareizrakstību (ar spraudni)."
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1513
 msgid "Alt + F12"
-msgstr ""
+msgstr "Alt + F12"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1516
 msgid "Remove trailing spaces (with plugin)."
-msgstr ""
+msgstr "Noņemt beigu atstarpes (ar spraudni)."
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1521
 msgid "Ctrl + T"
-msgstr ""
+msgstr "Ctrl + T"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1524
 msgid "Indent (with plugin)."
-msgstr ""
+msgstr "Palielināt atkāpi (ar spraudni)."
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1529
 msgid "Ctrl + Shift + T"
-msgstr ""
+msgstr "Ctrl + Shift + T"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1532
 msgid "Remove Indent (with plugin)."
-msgstr ""
+msgstr "Noņemt atkāpi (ar spraudni)."
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1537
 msgid "F8"
-msgstr ""
+msgstr "F8"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1540
 msgid "Run \"make\" in current directory (with plugin)."
-msgstr ""
+msgstr "Palaist „make” pašreizējā mapē (ar spraudni)."
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1545
 msgid "Ctrl + Shift + D"
-msgstr ""
+msgstr "Ctrl + Shift + D"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1548
 msgid "Directory listing (with plugin)."
-msgstr ""
+msgstr "Mapes satura saraksts (ar spraudni)."
 
 #. (itstool) path: section/bridgehead
 #: C/index.docbook:1556
@@ -2091,22 +2380,22 @@ msgstr "Palīdzība"
 #. (itstool) path: section/para
 #: C/index.docbook:1557
 msgid "Shortcuts for help:"
-msgstr ""
+msgstr "Īsinājumtaustiņi palīdzībai:"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1575
 msgid "F1"
-msgstr ""
+msgstr "F1"
 
 #. (itstool) path: entry/para
 #: C/index.docbook:1578
 msgid "Open <application>pluma</application>'s user manual."
-msgstr ""
+msgstr "Atvērt <application>pluma</application> lietotāja rokasgrāmatu."
 
 #. (itstool) path: info/title
 #: C/index.docbook:1589
 msgid "Preferences"
-msgstr "Iestatījumi"
+msgstr "Preferences"
 
 #. (itstool) path: section/para
 #: C/index.docbook:1591
@@ -2116,11 +2405,15 @@ msgid ""
 "</menuchoice>. The <guilabel>Preferences</guilabel> dialog contains the "
 "following categories:"
 msgstr ""
+"Lai iestatītu <application>pluma</application>, izvēlieties <menuchoice> "
+"<guimenu>Rediģēt</guimenu> <guimenuitem>Iestatījumi</guimenuitem> </"
+"menuchoice>. Dialoglodziņā <guilabel>Iestatījumi</guilabel> ir šādas "
+"kategorijas:"
 
 #. (itstool) path: info/title
 #: C/index.docbook:1617
 msgid "View Preferences"
-msgstr ""
+msgstr "View Preferences"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1625
@@ -2129,6 +2422,9 @@ msgid ""
 "lines of text flow into paragraphs instead of running off the edge of the "
 "text window. This avoids having to scroll horizontally"
 msgstr ""
+"Atlasiet iespēju <guilabel>Iespējot teksta aplaušanu</guilabel>, lai garas "
+"teksta rindas tiktu aplauztas rindkopās, nevis turpinātos aiz teksta loga "
+"malas. Tad nav jāritina horizontāli"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1626
@@ -2137,6 +2433,9 @@ msgid ""
 "have the text wrapping option preserve whole words when flowing text to the "
 "next line. This makes text easier to read."
 msgstr ""
+"Atlasiet iespēju <guilabel>Nedalīt vārdus divās rindās</guilabel>, lai, "
+"aplaužot tekstu nākamajā rindā, vārdi netiktu dalīti. Tā tekstu ir vieglāk "
+"lasīt."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1634
@@ -2144,11 +2443,13 @@ msgid ""
 "Select the <guilabel>Display line numbers</guilabel> option to display line "
 "numbers on the left side of the <application>pluma</application> window."
 msgstr ""
+"Atlasiet iespēju <guilabel>Rādīt rindu numurus</guilabel>, lai <application>"
+"pluma</application> loga kreisajā pusē tiktu rādīti rindu numuri."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:1638
 msgid "<guilabel>Current Line</guilabel>"
-msgstr ""
+msgstr "<guilabel>Pašreizējā rinda</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1642
@@ -2156,11 +2457,13 @@ msgid ""
 "Select the <guilabel>Highlight current line</guilabel> option to highlight "
 "the line where the cursor is placed."
 msgstr ""
+"Atlasiet iespēju <guilabel>Izcelt pašreizējo rindu</guilabel>, lai izceltu "
+"rindu, kurā atrodas kursors."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:1646
 msgid "<guilabel>Right Margin</guilabel>"
-msgstr ""
+msgstr "<guilabel>Labā mala</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1650
@@ -2168,6 +2471,8 @@ msgid ""
 "Select the <guilabel>Display right margin</guilabel> option to display a "
 "vertical line that indicates the right margin."
 msgstr ""
+"Atlasiet iespēju <guilabel>Rādīt labo malu</guilabel>, lai tiktu rādīta "
+"vertikāla līnija, kas apzīmē labo malu."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1651
@@ -2175,11 +2480,13 @@ msgid ""
 "Use the <guilabel>Right margin at column</guilabel> spin box to specify the "
 "location of the vertical line."
 msgstr ""
+"Skaitļa laukā <guilabel>Rādīt labo malu pie kolonnas</guilabel> norādiet "
+"vertikālās līnijas atrašanās vietu."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:1655
 msgid "<guilabel>Bracket Matching</guilabel>"
-msgstr ""
+msgstr "<guilabel>Atbilstošās iekavas</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1659
@@ -2188,16 +2495,18 @@ msgid ""
 "highlight the corresponding bracket when the cursor is positioned on a "
 "bracket character."
 msgstr ""
+"Atlasiet iespēju <guilabel>Izcelt atbilstošo iekavu</guilabel>, lai, "
+"kursoram atrodoties uz iekavas, tiktu izcelta tai atbilstošā iekava."
 
 #. (itstool) path: info/title
 #: C/index.docbook:1667
 msgid "Editor Preferences"
-msgstr ""
+msgstr "Editor Preferences"
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:1671
 msgid "<guilabel>Tabs</guilabel>"
-msgstr ""
+msgstr "<guilabel>Tabulācijas pieturas</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1675
@@ -2206,6 +2515,9 @@ msgid ""
 "space that <application> pluma</application> inserts when you press the "
 "<keycap>Tab</keycap> key."
 msgstr ""
+"Skaitļa laukā <guilabel>Tabulācijas platums</guilabel> norādiet, cik platu "
+"atstarpi <application> pluma</application> ievieto, nospiežot taustiņu "
+"<keycap>Tab</keycap>."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1676
@@ -2214,11 +2526,14 @@ msgid ""
 "specify that <application> pluma</application> inserts spaces instead of a "
 "tab character when you press the <keycap>Tab</keycap> key."
 msgstr ""
+"Atlasiet iespēju <guilabel>Ievietot atstarpes tabulāciju vietā</guilabel>, "
+"lai <application> pluma</application>, nospiežot taustiņu <keycap>Tab</"
+"keycap>, tabulācijas rakstzīmes vietā ievietotu atstarpes."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:1680
 msgid "<guilabel>Auto Indentation</guilabel>"
-msgstr ""
+msgstr "<guilabel>Automātiskā atkāpe</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1684
@@ -2226,11 +2541,13 @@ msgid ""
 "Select the <guilabel>Enable auto indentation</guilabel> option to specify "
 "that the next line starts at the indentation level of the current line."
 msgstr ""
+"Atlasiet iespēju <guilabel>Iespējot automātisko atkāpi</guilabel>, lai "
+"nākamā rinda sāktos ar pašreizējās rindas atkāpi."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:1688
 msgid "<guilabel>File Saving</guilabel>"
-msgstr ""
+msgstr "<guilabel>Failu saglabāšana</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1692
@@ -2239,6 +2556,9 @@ msgid ""
 "option to create a backup copy of a file each time you save the file. The "
 "backup copy of the file contains a ~ at the end of the filename."
 msgstr ""
+"Atlasiet iespēju <guilabel>Pirms saglabāšanas izveidot failu dublējumu</"
+"guilabel>, lai ik reizi, saglabājot failu, tiktu izveidota tā "
+"dublējumkopija. Dublējumkopijas faila nosaukuma beigās ir ~."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1693
@@ -2247,16 +2567,19 @@ msgid ""
 "automatically save the current file at regular intervals. Use the spin box "
 "to specify how often you want to save the file."
 msgstr ""
+"Atlasiet iespēju <guilabel>Automātiski saglabāt failus ik pēc ... minūtēm</"
+"guilabel>, lai pašreizējais fails tiktu automātiski saglabāts ar regulāriem "
+"intervāliem. Skaitļa laukā norādiet, cik bieži saglabāt failu."
 
 #. (itstool) path: info/title
 #: C/index.docbook:1701
 msgid "Font &amp; Colors Preferences"
-msgstr ""
+msgstr "Fontu un krāsu iestatījumi"
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:1706
 msgid "<guilabel>Font</guilabel>"
-msgstr ""
+msgstr "<guilabel>Fonts</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1710
@@ -2265,6 +2588,9 @@ msgid ""
 "default system font for the text in the <application>pluma</application> "
 "text window."
 msgstr ""
+"Atlasiet iespēju <guilabel>Izmantot noklusējuma motīva fontu</guilabel>, lai "
+"<application>pluma</application> teksta logā tekstam izmantotu sistēmas "
+"noklusējuma fontu."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1711
@@ -2273,11 +2599,14 @@ msgid ""
 "<application>pluma</application> uses to display text. Click on the button "
 "to specify the font type, style, and size to use for text."
 msgstr ""
+"Laukā <guilabel>Redaktora fonts</guilabel> redzams fonts, ar kuru "
+"<application>pluma</application> attēlo tekstu. Noklikšķiniet uz pogas, lai "
+"norādītu teksta fonta veidu, stilu un izmēru."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:1715
 msgid "<guilabel>Color Scheme</guilabel>"
-msgstr ""
+msgstr "<guilabel>Krāsu shēma</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1719
@@ -2285,56 +2614,58 @@ msgid ""
 "You can choose a color scheme from the list of color schemes. By default, "
 "the following color schemes are installed:"
 msgstr ""
+"Krāsu shēmu var izvēlēties krāsu shēmu sarakstā. Pēc noklusējuma ir "
+"instalētas šādas krāsu shēmas:"
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:1722
 msgid "<guilabel>Classic</guilabel>"
-msgstr ""
+msgstr "<guilabel>Klasiskā</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1726
 msgid "Classic color scheme based on the gvim color scheme."
-msgstr ""
+msgstr "Klasiska krāsu shēma, kuras pamatā ir gvim krāsu shēma."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:1730
 msgid "<guilabel>Cobalt</guilabel>"
-msgstr ""
+msgstr "<guilabel>Kobalts</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1734
 msgid "Blue based color scheme."
-msgstr ""
+msgstr "Zilos toņos veidota krāsu shēma."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:1738
 msgid "<guilabel>Kate</guilabel>"
-msgstr ""
+msgstr "<guilabel>Kate</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1742
 msgid "Color scheme used in the Kate text editor."
-msgstr ""
+msgstr "Krāsu shēma, ko izmanto teksta redaktors Kate."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:1746
 msgid "<guilabel>Oblivion</guilabel>"
-msgstr ""
+msgstr "<guilabel>Oblivion</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1750
 msgid "Dark color scheme using the Tango color palette."
-msgstr ""
+msgstr "Tumša krāsu shēma ar Tango krāsu paleti."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:1754
 msgid "<guilabel>Tango</guilabel>"
-msgstr ""
+msgstr "<guilabel>Tango</guilabel>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1758
 msgid "Color scheme using the Tango color scheme."
-msgstr ""
+msgstr "Krāsu shēma ar Tango krāsu shēmu."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1762
@@ -2342,6 +2673,8 @@ msgid ""
 "You can add a new color scheme by clicking on <guilabel>Add...</guilabel>, "
 "and selecting a color scheme file"
 msgstr ""
+"Jaunu krāsu shēmu var pievienot, noklikšķinot uz <guilabel>Pievienot...</"
+"guilabel> un atlasot krāsu shēmas failu"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1763
@@ -2349,11 +2682,12 @@ msgid ""
 "You can remove the selected color scheme by clicking on "
 "<guilabel>Remove</guilabel>"
 msgstr ""
+"Atlasīto krāsu shēmu var noņemt, noklikšķinot uz <guilabel>Noņemt</guilabel>"
 
 #. (itstool) path: info/title
 #: C/index.docbook:1771
 msgid "Plugins Preferences"
-msgstr ""
+msgstr "Spraudņu iestatījumi"
 
 #. (itstool) path: section/para
 #: C/index.docbook:1773
@@ -2362,11 +2696,14 @@ msgid ""
 "information on plugins and how to use the built-in plugins, see <xref "
 "linkend=\"pluma-plugins-overview\"/>."
 msgstr ""
+"Spraudņi papildina <application>pluma</application> ar jaunām iespējām. "
+"Plašāku informāciju par spraudņiem un iebūvēto spraudņu lietošanu skatiet "
+"<xref linkend=\"pluma-plugins-overview\"/>."
 
 #. (itstool) path: info/title
 #: C/index.docbook:1778
 msgid "Enabling a Plugin"
-msgstr ""
+msgstr "Spraudņa iespējošana"
 
 #. (itstool) path: section/para
 #: C/index.docbook:1780
@@ -2374,6 +2711,8 @@ msgid ""
 "To enable a <application>pluma</application> plugin, perform the following "
 "steps:"
 msgstr ""
+"Lai iespējotu <application>pluma</application> spraudni, veiciet šīs "
+"darbības:"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1783 C/index.docbook:1807 C/index.docbook:2150
@@ -2381,17 +2720,21 @@ msgid ""
 "Choose <menuchoice> <guimenu>Edit</guimenu> "
 "<guimenuitem>Preferences</guimenuitem> </menuchoice>."
 msgstr ""
+"Izvēlieties <menuchoice> <guimenu>Rediģēt</guimenu> <guimenuitem>"
+"Iestatījumi</guimenuitem> </menuchoice>."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1786 C/index.docbook:1810 C/index.docbook:2153
 msgid "Select the <guilabel>Plugins</guilabel> tab."
-msgstr ""
+msgstr "Atlasiet cilni <guilabel>Spraudņi</guilabel>."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1789
 msgid ""
 "Select the check box next to the name of the plugin that you want to enable."
 msgstr ""
+"Atzīmējiet izvēles rūtiņu blakus tā spraudņa nosaukumam, kuru vēlaties "
+"iespējot."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1792 C/index.docbook:1816
@@ -2399,17 +2742,19 @@ msgid ""
 "Click <guibutton>Close</guibutton> to close the "
 "<guilabel>Preferences</guilabel> dialog."
 msgstr ""
+"Noklikšķiniet uz <guibutton>Aizvērt</guibutton>, lai aizvērtu dialoglodziņu "
+"<guilabel>Iestatījumi</guilabel>."
 
 #. (itstool) path: info/title
 #: C/index.docbook:1800
 msgid "Disabling a Plugin"
-msgstr ""
+msgstr "Spraudņa atspējošana"
 
 #. (itstool) path: section/para
 #: C/index.docbook:1803
 msgid ""
 "A plugin remains enabled when you quit <application>pluma</application>."
-msgstr ""
+msgstr "Iziešana no <application>pluma</application> spraudni neatspējo."
 
 #. (itstool) path: section/para
 #: C/index.docbook:1804
@@ -2417,6 +2762,8 @@ msgid ""
 "To disable a <application>pluma</application> plugin, perform the following "
 "steps:"
 msgstr ""
+"Lai atspējotu <application>pluma</application> spraudni, veiciet šīs "
+"darbības:"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1813
@@ -2424,6 +2771,8 @@ msgid ""
 "Deselect the check box next to the name of the plugin that you want to "
 "disable."
 msgstr ""
+"Noņemiet atzīmi no izvēles rūtiņas blakus tā spraudņa nosaukumam, kuru "
+"vēlaties atspējot."
 
 #. (itstool) path: info/title
 #: C/index.docbook:1826
@@ -2433,7 +2782,7 @@ msgstr "Spraudņi"
 #. (itstool) path: info/title
 #: C/index.docbook:1831
 msgid "Working with Plugins"
-msgstr ""
+msgstr "Darbs ar spraudņiem"
 
 #. (itstool) path: section/para
 #: C/index.docbook:1833
@@ -2443,11 +2792,17 @@ msgid ""
 "enhances the functionality of an application. Plugins add new items to the "
 "<application>pluma</application> menus for the new features they provide."
 msgstr ""
+"<application>pluma</application> var papildināt ar jaunām iespējām, "
+"iespējojot <firstterm>spraudņus</firstterm>. Spraudnis ir papildprogramma, "
+"kas paplašina lietotnes iespējas. Spraudņi pievieno <application>pluma</"
+"application> izvēlnēm jaunus vienumus jaunajām iespējām, ko tie nodrošina."
 
 #. (itstool) path: section/para
 #: C/index.docbook:1835
 msgid "Several plugins come built-in with <application>pluma</application>."
 msgstr ""
+"Kopā ar <application>pluma</application> tiek piegādāti vairāki iebūvēti "
+"spraudņi."
 
 #. (itstool) path: section/para
 #: C/index.docbook:1836
@@ -2455,12 +2810,16 @@ msgid ""
 "To enable and disable plugins, or see which plugins are currently enabled, "
 "use the <xref linkend=\"pluma-prefs-plugins\"/>."
 msgstr ""
+"Lai iespējotu un atspējotu spraudņus vai redzētu, kuri spraudņi pašlaik ir "
+"iespējoti, izmantojiet <xref linkend=\"pluma-prefs-plugins\"/>."
 
 #. (itstool) path: section/para
 #: C/index.docbook:1837
 msgid ""
 "The following plugins come built-in with <application>pluma</application>:"
 msgstr ""
+"Kopā ar <application>pluma</application> tiek piegādāti šādi iebūvēti "
+"spraudņi:"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1843
@@ -2468,6 +2827,8 @@ msgid ""
 "<xref linkend=\"pluma-document-statistics-plugin\"/> shows the number of "
 "lines, words, and characters in the document."
 msgstr ""
+"<xref linkend=\"pluma-document-statistics-plugin\"/> rāda dokumenta rindu, "
+"vārdu un rakstzīmju skaitu."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1848
@@ -2475,6 +2836,8 @@ msgid ""
 "<xref linkend=\"pluma-external-tools-plugin\"/> allows you to execute "
 "external commands from <application>pluma</application>."
 msgstr ""
+"<xref linkend=\"pluma-external-tools-plugin\"/> ļauj no <application>pluma</"
+"application> izpildīt ārējas komandas."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1853
@@ -2482,6 +2845,8 @@ msgid ""
 "<xref linkend=\"pluma-file-browser-plugin\"/> allows you to browse your "
 "files and folders in the side pane."
 msgstr ""
+"<xref linkend=\"pluma-file-browser-plugin\"/> ļauj pārlūkot failus un mapes "
+"sānu rūtī."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1857
@@ -2489,6 +2854,8 @@ msgid ""
 "<xref linkend=\"pluma-indent-lines-plugin\"/> adds or removes indentation "
 "from the selected lines."
 msgstr ""
+"<xref linkend=\"pluma-indent-lines-plugin\"/> pievieno vai noņem atlasīto "
+"rindu atkāpi."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1862
@@ -2496,6 +2863,8 @@ msgid ""
 "<xref linkend=\"pluma-insert-date-time-plugin\"/> adds the current date and "
 "time into a document."
 msgstr ""
+"<xref linkend=\"pluma-insert-date-time-plugin\"/> ievieto dokumentā "
+"pašreizējo datumu un laiku."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1867
@@ -2505,6 +2874,10 @@ msgid ""
 "<application>Emacs</application>, <application>Kate</application> and "
 "<application>Vim</application>-style modelines."
 msgstr ""
+"<xref linkend=\"pluma-modelines-plugin\"/> ļauj iestatīt rediģēšanas "
+"iestatījumus atsevišķiem dokumentiem un atbalsta <application>Emacs</"
+"application>, <application>Kate</application> un <application>Vim</"
+"application> stila režīma rindas (modelines)."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1872
@@ -2512,6 +2885,8 @@ msgid ""
 "<xref linkend=\"pluma-python-console-plugin\"/> allows you to run commands "
 "in the python programming language."
 msgstr ""
+"<xref linkend=\"pluma-python-console-plugin\"/> ļauj izpildīt komandas "
+"Python programmēšanas valodā."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1877
@@ -2519,6 +2894,8 @@ msgid ""
 "<xref linkend=\"pluma-trailsave-plugin\"/> allows you to strip trailing "
 "whitespaces in your document after saving."
 msgstr ""
+"<xref linkend=\"pluma-trailsave-plugin\"/> ļauj pēc saglabāšanas noņemt "
+"dokumentā beigu atstarpes."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1882
@@ -2526,6 +2903,8 @@ msgid ""
 "<xref linkend=\"pluma-snippets-plugin\"/> allows you to store frequently-"
 "used pieces of text and insert them quickly into a document."
 msgstr ""
+"<xref linkend=\"pluma-snippets-plugin\"/> ļauj saglabāt bieži lietotus "
+"teksta fragmentus un ātri ievietot tos dokumentā."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1887
@@ -2533,6 +2912,8 @@ msgid ""
 "<xref linkend=\"pluma-sort-plugin\"/> arranges selected lines of text into "
 "alphabetical order."
 msgstr ""
+"<xref linkend=\"pluma-sort-plugin\"/> sakārto atlasītās teksta rindas "
+"alfabētiskā secībā."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1892
@@ -2540,6 +2921,8 @@ msgid ""
 "<xref linkend=\"pluma-spell-checker-plugin\"/> corrects the spelling in the "
 "selected text, or marks errors automatically in the document."
 msgstr ""
+"<xref linkend=\"pluma-spell-checker-plugin\"/> labo pareizrakstību "
+"atlasītajā tekstā vai automātiski atzīmē kļūdas dokumentā."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1897
@@ -2547,6 +2930,8 @@ msgid ""
 "<xref linkend=\"pluma-tag-list-plugin\"/> lets you insert commonly-used tags"
 " for HTML and other languages from a list in the side pane."
 msgstr ""
+"<xref linkend=\"pluma-tag-list-plugin\"/> ļauj no saraksta sānu rūtī "
+"ievietot bieži lietotas HTML un citu valodu birkas."
 
 #. (itstool) path: note/para
 #: C/index.docbook:1904
@@ -2554,11 +2939,13 @@ msgid ""
 "For more information on creating plugins, see <link "
 "xlink:href=\"https://github.com/mate-desktop/pluma/tree/master/plugins\"/>."
 msgstr ""
+"Plašāku informāciju par spraudņu izveidi skatiet <link xlink:href=\"https://"
+"github.com/mate-desktop/pluma/tree/master/plugins\"/>."
 
 #. (itstool) path: info/title
 #: C/index.docbook:1910
 msgid "Document Statistics Plugin"
-msgstr ""
+msgstr "Spraudnis „Dokumenta statistika”"
 
 #. (itstool) path: section/para
 #: C/index.docbook:1913
@@ -2569,6 +2956,11 @@ msgid ""
 "<guilabel>Document Statistics</guilabel> dialog. To use the Document "
 "Statistics plugin, perform the following steps:"
 msgstr ""
+"Spraudnis <application>Dokumenta statistika</application> saskaita "
+"pašreizējā faila rindas, vārdus, rakstzīmes ar atstarpēm, rakstzīmes bez "
+"atstarpēm un baitus. Rezultāti tiek parādīti dialoglodziņā <guilabel>"
+"Dokumenta statistika</guilabel>. Lai izmantotu spraudni „Dokumenta statistika"
+"”, veiciet šīs darbības:"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1916
@@ -2578,31 +2970,35 @@ msgid ""
 "Statistics</guilabel> dialog. The <guilabel>Document Statistics</guilabel> "
 "dialog displays the following information about the file:"
 msgstr ""
+"Izvēlieties <menuchoice> <guimenu>Rīki</guimenu> <guimenuitem>Dokumenta "
+"statistika</guimenuitem> </menuchoice>, lai parādītu dialoglodziņu <guilabel>"
+"Dokumenta statistika</guilabel>. Dialoglodziņā <guilabel>Dokumenta "
+"statistika</guilabel> redzama šāda informācija par failu:"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1919
 msgid "Number of lines in the current document."
-msgstr ""
+msgstr "Rindu skaits pašreizējā dokumentā."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1922
 msgid "Number of words in the current document."
-msgstr ""
+msgstr "Vārdu skaits pašreizējā dokumentā."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1925
 msgid "Number of characters, including spaces, in the current document."
-msgstr ""
+msgstr "Rakstzīmju skaits, ieskaitot atstarpes, pašreizējā dokumentā."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1928
 msgid "Number of characters, not including spaces, in the current document."
-msgstr ""
+msgstr "Rakstzīmju skaits, neieskaitot atstarpes, pašreizējā dokumentā."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1931
 msgid "Number of bytes in the current document."
-msgstr ""
+msgstr "Baitu skaits pašreizējā dokumentā."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1936
@@ -2612,11 +3008,15 @@ msgid ""
 "contents of the <guilabel>Document Statistics</guilabel> dialog, click "
 "<guibutton>Update</guibutton>."
 msgstr ""
+"Kamēr dialoglodziņš <guilabel>Dokumenta statistika</guilabel> ir atvērts, "
+"<application>pluma</application> failu var turpināt rediģēt. Lai "
+"atsvaidzinātu dialoglodziņa <guilabel>Dokumenta statistika</guilabel> "
+"saturu, noklikšķiniet uz <guibutton>Atjaunināt</guibutton>."
 
 #. (itstool) path: info/title
 #: C/index.docbook:1943
 msgid "External Tools Plugin"
-msgstr ""
+msgstr "Spraudnis „Ārējie rīki”"
 
 #. (itstool) path: section/para
 #: C/index.docbook:1945
@@ -2627,6 +3027,10 @@ msgid ""
 "<application>sed</application>), or launch a predefined command (for "
 "example, <application>make</application>)."
 msgstr ""
+"Spraudnis <application>Ārējie rīki</application> ļauj no <application>pluma</"
+"application> izpildīt ārējas komandas. Komandai var padot saturu un izmantot "
+"tās izvadi (piemēram, <application>sed</application>) vai palaist iepriekš "
+"definētu komandu (piemēram, <application>make</application>)."
 
 #. (itstool) path: section/para
 #: C/index.docbook:1946
@@ -2635,11 +3039,13 @@ msgid ""
 "commands. To run an external command, choose it from the "
 "<guimenu>Tools</guimenu> menu."
 msgstr ""
+"Komandas var izveidot un rediģēt <guilabel>Ārējo rīku pārvaldniekā</guilabel>"
+". Lai palaistu ārēju komandu, izvēlieties to izvēlnē <guimenu>Rīki</guimenu>."
 
 #. (itstool) path: info/title
 #: C/index.docbook:1950
 msgid "Built-in Commands"
-msgstr ""
+msgstr "Iebūvētās komandas"
 
 #. (itstool) path: section/para
 #: C/index.docbook:1952
@@ -2647,43 +3053,44 @@ msgid ""
 "The following commands are provided with the <application>External "
 "Tools</application> plugin:"
 msgstr ""
+"Spraudnis <application>Ārējie rīki</application> piedāvā šādas komandas:"
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:1955
 msgid "Build"
-msgstr "Būvējums"
+msgstr "Būvēt"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1957
 msgid ""
 "Runs <application>make</application> in the current document's directory."
-msgstr ""
+msgstr "Palaiž <application>make</application> pašreizējā dokumenta mapē."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:1961
 msgid "Directory Listing"
-msgstr ""
+msgstr "Mapes saturs"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1963
 msgid ""
 "Lists the contents of the current document's directory in a new document."
-msgstr ""
+msgstr "Jaunā dokumentā parāda pašreizējā dokumenta mapes saturu."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:1967
 msgid "Environment Variables"
-msgstr ""
+msgstr "Vides mainīgie"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1969
 msgid "Displays the environment variables list in the bottom pane."
-msgstr ""
+msgstr "Apakšējā panelī parāda vides mainīgo sarakstu."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:1973
 msgid "Grep"
-msgstr ""
+msgstr "Grep"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1975
@@ -2691,21 +3098,23 @@ msgid ""
 "Searches for a term in all files in the current document directory, using "
 "pattern matching. Results are shown in the bottom pane."
 msgstr ""
+"Meklē terminu visos pašreizējā dokumenta mapes failos, izmantojot šablonus. "
+"Rezultāti tiek parādīti apakšējā panelī."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:1979
 msgid "Remove Trailing Spaces"
-msgstr ""
+msgstr "Noņemt beigu atstarpes"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:1981
 msgid "Removes all spaces from the end of lines in the document."
-msgstr ""
+msgstr "Noņem visas atstarpes dokumenta rindu beigās."
 
 #. (itstool) path: info/title
 #: C/index.docbook:1989
 msgid "Defining a Command"
-msgstr ""
+msgstr "Komandas definēšana"
 
 #. (itstool) path: section/para
 #: C/index.docbook:1991
@@ -2713,6 +3122,8 @@ msgid ""
 "To add an external command, choose <menuchoice> <guimenu>Tools</guimenu> "
 "<guimenuitem>External Tools</guimenuitem> </menuchoice>."
 msgstr ""
+"Lai pievienotu ārēju komandu, izvēlieties <menuchoice> <guimenu>Rīki</"
+"guimenu> <guimenuitem>Ārējie rīki</guimenuitem> </menuchoice>."
 
 #. (itstool) path: section/para
 #: C/index.docbook:1992
@@ -2721,6 +3132,8 @@ msgid ""
 "<guibutton>New</guibutton>. You can specify the following details for the "
 "new command:"
 msgstr ""
+"Logā <guilabel>Ārējo rīku pārvaldnieks</guilabel> noklikšķiniet uz "
+"<guibutton>Jauns</guibutton>. Jaunajai komandai var norādīt šādu informāciju:"
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:1995
@@ -2731,22 +3144,22 @@ msgstr "Apraksts"
 #: C/index.docbook:1997
 msgid ""
 "This description is shown in the statusbar when the menu command is chosen."
-msgstr ""
+msgstr "Šis apraksts tiek rādīts statusa joslā, kad izvēlas izvēlnes komandu."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:2001
 msgid "Accelerator"
-msgstr ""
+msgstr "Īsinājumtaustiņš"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2003
 msgid "Enter a keyboard shortcut for the command."
-msgstr ""
+msgstr "Ievadiet komandas īsinājumtaustiņu."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:2007
 msgid "Commands"
-msgstr ""
+msgstr "Komandas"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2009
@@ -2755,11 +3168,14 @@ msgid ""
 "environment variables can be used to pass content to these commands: see "
 "<xref linkend=\"pluma-external-tools-plugin-variables\"/>."
 msgstr ""
+"Izpildāmās komandas. Lai šīm komandām nodotu saturu, var izmantot vairākus "
+"<application>pluma</application> vides mainīgos — skatiet <xref "
+"linkend=\"pluma-external-tools-plugin-variables\"/>."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:2013
 msgid "Input"
-msgstr "Ievads"
+msgstr "Ievade"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2015
@@ -2767,11 +3183,13 @@ msgid ""
 "The content to give to the commands (as <systemitem>stdin</systemitem>): the"
 " entire text of the current document, the current selection, line, or word."
 msgstr ""
+"Saturs, kas tiek nodots komandām (kā <systemitem>stdin</systemitem>): viss "
+"pašreizējā dokumenta teksts, pašreizējā atlase, rinda vai vārds."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:2019
 msgid "Output"
-msgstr "Izvads"
+msgstr "Izvade"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2021
@@ -2780,11 +3198,14 @@ msgid ""
 "in a new document, or place in the current document, at the end, at the "
 "cursor position, or replacing the selection or the entire document."
 msgstr ""
+"Ko darīt ar komandu izvadi: rādīt apakšējā panelī, ievietot jaunā dokumentā "
+"vai pašreizējā dokumentā — beigās, kursora vietā vai aizstājot atlasi vai "
+"visu dokumentu."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:2025
 msgid "Applicability"
-msgstr ""
+msgstr "Pielietojamība"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2027
@@ -2792,22 +3213,24 @@ msgid ""
 "Determines which sort of documents can be affected by the command, for "
 "example whether saved or not, and local or remote."
 msgstr ""
+"Nosaka, kādus dokumentus komanda var ietekmēt, piemēram, saglabātus vai "
+"nesaglabātus, lokālus vai attālus."
 
 #. (itstool) path: info/title
 #: C/index.docbook:2035
 msgid "Editing and Removing Tools"
-msgstr ""
+msgstr "Rīku rediģēšana un noņemšana"
 
 #. (itstool) path: section/para
 #: C/index.docbook:2037
 msgid ""
 "To edit a tool, select it in the list and make changes to its properties."
-msgstr ""
+msgstr "Lai rediģētu rīku, atlasiet to sarakstā un mainiet tā īpašības."
 
 #. (itstool) path: section/para
 #: C/index.docbook:2038
 msgid "To rename a tool, click it again in the list."
-msgstr ""
+msgstr "Lai pārdēvētu rīku, vēlreiz noklikšķiniet uz tā sarakstā."
 
 #. (itstool) path: section/para
 #: C/index.docbook:2039
@@ -2815,6 +3238,8 @@ msgid ""
 "To restore a built-in tool that you have changed, press "
 "<guilabel>Revert</guilabel>."
 msgstr ""
+"Lai atjaunotu mainītu iebūvēto rīku, nospiediet <guilabel>Atgriezt</guilabel>"
+"."
 
 #. (itstool) path: section/para
 #: C/index.docbook:2040
@@ -2823,11 +3248,13 @@ msgid ""
 "<guibutton>Remove</guibutton>. You can not remove built-in tools, only those"
 " you have created yourself."
 msgstr ""
+"Lai noņemtu rīku, atlasiet to sarakstā un nospiediet <guibutton>Noņemt</"
+"guibutton>. Iebūvētos rīkus noņemt nevar — tikai pašu izveidotos."
 
 #. (itstool) path: info/title
 #: C/index.docbook:2045
 msgid "Variables"
-msgstr ""
+msgstr "Mainīgie"
 
 #. (itstool) path: section/para
 #: C/index.docbook:2047
@@ -2835,46 +3262,48 @@ msgid ""
 "You can use the following variables in the <guilabel>Commands</guilabel> "
 "field of the command definition:"
 msgstr ""
+"Komandas definīcijas laukā <guilabel>Komandas</guilabel> var izmantot šādus "
+"mainīgos:"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2050
 msgid "PLUMA_CURRENT_DOCUMENT_URI"
-msgstr ""
+msgstr "PLUMA_CURRENT_DOCUMENT_URI"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2053
 msgid "PLUMA_CURRENT_DOCUMENT_NAME"
-msgstr ""
+msgstr "PLUMA_CURRENT_DOCUMENT_NAME"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2056
 msgid "PLUMA_CURRENT_DOCUMENT_SCHEME"
-msgstr ""
+msgstr "PLUMA_CURRENT_DOCUMENT_SCHEME"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2059
 msgid "PLUMA_CURRENT_DOCUMENT_PATH"
-msgstr ""
+msgstr "PLUMA_CURRENT_DOCUMENT_PATH"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2062
 msgid "PLUMA_CURRENT_DOCUMENT_DIR"
-msgstr ""
+msgstr "PLUMA_CURRENT_DOCUMENT_DIR"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2065
 msgid "PLUMA_DOCUMENTS_URI"
-msgstr ""
+msgstr "PLUMA_DOCUMENTS_URI"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2068
 msgid "PLUMA_DOCUMENTS_PATH"
-msgstr ""
+msgstr "PLUMA_DOCUMENTS_PATH"
 
 #. (itstool) path: info/title
 #: C/index.docbook:2076
 msgid "File Browser Pane Plugin"
-msgstr ""
+msgstr "Spraudnis „Failu pārlūka rūts”"
 
 #. (itstool) path: section/para
 #: C/index.docbook:2078
@@ -2882,6 +3311,8 @@ msgid ""
 "The <application>File Browser Pane</application> Plugin shows your files and"
 " folders in the side pane, allowing you to quickly open files."
 msgstr ""
+"Spraudnis <application>Failu pārlūka rūts</application> rāda failus un mapes "
+"sānu rūtī, lai tos varētu ātri atvērt."
 
 #. (itstool) path: section/para
 #: C/index.docbook:2079
@@ -2890,11 +3321,14 @@ msgid ""
 "<guimenuitem>Side Pane</guimenuitem> </menuchoice> and then click on the tab"
 " showing the File Browser icon at the bottom of the side pane."
 msgstr ""
+"Lai skatītu failu pārlūku, izvēlieties <menuchoice> <guimenu>Skats</guimenu> "
+"<guimenuitem>Sānu rūts</guimenuitem> </menuchoice> un sānu rūts apakšā "
+"noklikšķiniet uz cilnes ar failu pārlūka ikonu."
 
 #. (itstool) path: info/title
 #: C/index.docbook:2083
 msgid "Browsing your Files"
-msgstr ""
+msgstr "Failu pārlūkošana"
 
 #. (itstool) path: section/para
 #: C/index.docbook:2085
@@ -2902,6 +3336,8 @@ msgid ""
 "The File Browser tab initially shows your file manager bookmarks. To browse "
 "the contents of any item, double-click it."
 msgstr ""
+"Failu pārlūka cilnē sākotnēji redzamas failu pārvaldnieka grāmatzīmes. Lai "
+"pārlūkotu kāda vienuma saturu, veiciet uz tā dubultklikšķi."
 
 #. (itstool) path: section/para
 #: C/index.docbook:2086
@@ -2909,6 +3345,8 @@ msgid ""
 "To show a parent folder, choose from the drop-down list, or press the up "
 "arrow on the File Browser's toolbar."
 msgstr ""
+"Lai parādītu vecākmapi, izvēlieties to nolaižamajā sarakstā vai failu "
+"pārlūka rīkjoslā nospiediet bultiņu uz augšu."
 
 #. (itstool) path: section/para
 #: C/index.docbook:2087
@@ -2917,6 +3355,9 @@ msgid ""
 "right-click in the file list and choose <guimenuitem>Set root to active "
 "document</guimenuitem>."
 msgstr ""
+"Lai parādītu mapi, kurā atrodas pašlaik rediģējamais dokuments, ar peles "
+"labo pogu noklikšķiniet failu sarakstā un izvēlieties <guimenuitem>Iestatīt "
+"sakni uz aktīvo dokumentu</guimenuitem>."
 
 #. (itstool) path: section/para
 #: C/index.docbook:2094
@@ -2924,11 +3365,13 @@ msgid ""
 "To open a file in <application>pluma</application>, double-click it in the "
 "file list."
 msgstr ""
+"Lai atvērtu failu lietotnē <application>pluma</application>, failu sarakstā "
+"veiciet uz tā dubultklikšķi."
 
 #. (itstool) path: info/title
 #: C/index.docbook:2099
 msgid "Creating Files and Folders"
-msgstr ""
+msgstr "Failu un mapju izveide"
 
 #. (itstool) path: section/para
 #: C/index.docbook:2101
@@ -2937,6 +3380,9 @@ msgid ""
 " right-click in the file list and choose <guimenuitem>New "
 "File</guimenuitem>."
 msgstr ""
+"Lai pārlūkā redzamajā pašreizējā mapē izveidotu jaunu, tukšu teksta failu, "
+"ar peles labo pogu noklikšķiniet failu sarakstā un izvēlieties <guimenuitem>"
+"Jauns fails</guimenuitem>."
 
 #. (itstool) path: section/para
 #: C/index.docbook:2102
@@ -2944,11 +3390,14 @@ msgid ""
 "To create a new folder in the current folder shown in the browser, right-"
 "click in the file list and choose <guimenuitem>New Folder</guimenuitem>."
 msgstr ""
+"Lai pārlūkā redzamajā pašreizējā mapē izveidotu jaunu mapi, ar peles labo "
+"pogu noklikšķiniet failu sarakstā un izvēlieties <guimenuitem>Jauna mape</"
+"guimenuitem>."
 
 #. (itstool) path: info/title
 #: C/index.docbook:2108
 msgid "Indent Lines Plugin"
-msgstr ""
+msgstr "Spraudnis „Rindu atkāpe”"
 
 #. (itstool) path: section/para
 #: C/index.docbook:2110
@@ -2956,11 +3405,13 @@ msgid ""
 "The <application>Indent Lines</application> plugin adds or removes space "
 "from the beginning of lines of text."
 msgstr ""
+"Spraudnis <application>Rindu atkāpe</application> pievieno vai noņem "
+"atstarpes teksta rindu sākumā."
 
 #. (itstool) path: section/para
 #: C/index.docbook:2111
 msgid "To indent or unindent text, perform the following steps:"
-msgstr ""
+msgstr "Lai palielinātu vai samazinātu teksta atkāpi, veiciet šīs darbības:"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2114
@@ -2968,6 +3419,8 @@ msgid ""
 "Select the lines that you want to indent. To indent or unindent a single "
 "line, place the cursor anywhere on that line."
 msgstr ""
+"Atlasiet rindas, kurām vēlaties mainīt atkāpi. Lai mainītu vienas rindas "
+"atkāpi, novietojiet kursoru jebkurā šīs rindas vietā."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2119
@@ -2975,6 +3428,8 @@ msgid ""
 "To indent the text, choose <menuchoice> <guimenu>Edit</guimenu> "
 "<guimenuitem>Indent</guimenuitem> </menuchoice>."
 msgstr ""
+"Lai palielinātu teksta atkāpi, izvēlieties <menuchoice> <guimenu>Rediģēt</"
+"guimenu> <guimenuitem>Palielināt atkāpi</guimenuitem> </menuchoice>."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2122
@@ -2982,6 +3437,8 @@ msgid ""
 "To remove the indentation, choose <menuchoice> <guimenu>Edit</guimenu> "
 "<guimenuitem>Unindent</guimenuitem> </menuchoice>."
 msgstr ""
+"Lai noņemtu atkāpi, izvēlieties <menuchoice> <guimenu>Rediģēt</guimenu> "
+"<guimenuitem>Samazināt atkāpi</guimenuitem> </menuchoice>."
 
 #. (itstool) path: section/para
 #: C/index.docbook:2127
@@ -2990,11 +3447,15 @@ msgid ""
 "used, depends on the <guilabel>Tab Stops</guilabel> settings in the Editor "
 "Preferences: see <xref linkend=\"pluma-prefs-editor\"/>."
 msgstr ""
+"Atkāpes lielums un tas, vai tiek izmantota tabulācijas rakstzīme vai "
+"atstarpes, ir atkarīgs no redaktora iestatījumu sadaļas <guilabel>"
+"Tabulācijas pieturas</guilabel> — skatiet <xref linkend=\"pluma-prefs-"
+"editor\"/>."
 
 #. (itstool) path: info/title
 #: C/index.docbook:2132
 msgid "Insert Date/Time Plugin"
-msgstr ""
+msgstr "Spraudnis „Ievietot datumu/laiku”"
 
 #. (itstool) path: section/para
 #: C/index.docbook:2134
@@ -3003,6 +3464,9 @@ msgid ""
 "date and time into a document. To use the Insert Date/Time plugin, perform "
 "the following steps:"
 msgstr ""
+"Spraudnis <application>Ievietot datumu/laiku</application> ievieto dokumentā "
+"pašreizējo datumu un laiku. Lai izmantotu spraudni „Ievietot datumu/laiku”, "
+"veiciet šīs darbības:"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2137
@@ -3010,6 +3474,8 @@ msgid ""
 "Choose <menuchoice> <guimenu>Edit</guimenu> <guimenuitem>Insert Date and "
 "Time</guimenuitem> </menuchoice>."
 msgstr ""
+"Izvēlieties <menuchoice> <guimenu>Rediģēt</guimenu> <guimenuitem>Ievietot "
+"datumu un laiku</guimenuitem> </menuchoice>."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2138
@@ -3022,6 +3488,13 @@ msgid ""
 " and Time</guilabel> dialog. <application>pluma</application> inserts the "
 "date/time at the cursor position in the current file."
 msgstr ""
+"Ja spraudnis „Ievietot datumu/laiku” nav iestatīts ievietot datumu/laiku "
+"automātiski, nevaicājot formātu, <application>pluma</application> parāda "
+"dialoglodziņu <guilabel>Ievietot datumu un laiku</guilabel>. Sarakstā "
+"atlasiet vajadzīgo datuma/laika formātu. Noklikšķiniet uz <guibutton>"
+"Ievietot</guibutton>, lai aizvērtu dialoglodziņu <guilabel>Ievietot datumu "
+"un laiku</guilabel>. <application>pluma</application> ievieto datumu/laiku "
+"pašreizējā failā kursora vietā."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2139
@@ -3031,21 +3504,25 @@ msgid ""
 "dialog is not displayed. The date/time is automatically entered at the "
 "cursor position in the current file."
 msgstr ""
+"Ja <application>pluma</application> ir iestatīts izmantot vienu noteiktu "
+"datuma/laika formātu, dialoglodziņš <guilabel>Ievietot datumu un laiku</"
+"guilabel> netiek parādīts. Datums/laiks tiek automātiski ievietots "
+"pašreizējā failā kursora vietā."
 
 #. (itstool) path: info/title
 #: C/index.docbook:2145
 msgid "Configuring the Insert Date/Time Plugin"
-msgstr ""
+msgstr "Spraudņa „Ievietot datumu/laiku” iestatīšana"
 
 #. (itstool) path: section/para
 #: C/index.docbook:2147
 msgid "To configure the Insert Date/Time plugin, perform the following steps:"
-msgstr ""
+msgstr "Lai iestatītu spraudni „Ievietot datumu/laiku”, veiciet šīs darbības:"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2156
 msgid "Select the <guilabel>Insert Date/Time</guilabel> plugin."
-msgstr ""
+msgstr "Atlasiet spraudni <guilabel>Ievietot datumu/laiku</guilabel>."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2159
@@ -3053,11 +3530,13 @@ msgid ""
 "Click <guibutton>Configure Plugin</guibutton> to display the "
 "<guilabel>Configure insert date/time plugin</guilabel> dialog."
 msgstr ""
+"Noklikšķiniet uz <guibutton>Konfigurēt spraudni</guibutton>, lai atvērtu "
+"dialoglodziņu <guilabel>Configure insert date/time plugin</guilabel>."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2162
 msgid "Select one of the options, as follows:"
-msgstr ""
+msgstr "Atlasiet kādu no šīm iespējām:"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2165
@@ -3065,6 +3544,8 @@ msgid ""
 "To specify the date/time format each time you insert the date/time, select "
 "the <guilabel>Prompt for a format</guilabel> option."
 msgstr ""
+"Lai datuma/laika formātu norādītu ik reizi, ievietojot datumu/laiku, "
+"atlasiet iespēju <guilabel>Prasīt formātu</guilabel>."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2168
@@ -3077,6 +3558,12 @@ msgid ""
 "<guimenu>Edit</guimenu> <guimenuitem>Insert Date and Time</guimenuitem> "
 "</menuchoice>."
 msgstr ""
+"Lai ik reizi, ievietojot datumu/laiku, izmantotu vienu un to pašu "
+"<application>pluma</application> piedāvāto datuma/laika formātu, atlasiet "
+"iespēju <guilabel>Lietot atlasīto formātu</guilabel> un sarakstā atlasiet "
+"vajadzīgo formātu. Ja atlasāt šo iespēju, <application>pluma</application> "
+"neprasa datuma/laika formātu, kad izvēlaties <menuchoice> <guimenu>Rediģēt</"
+"guimenu> <guimenuitem>Ievietot datumu un laiku</guimenuitem> </menuchoice>."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2171
@@ -3092,6 +3579,15 @@ msgid ""
 "<guimenu>Edit</guimenu> <guimenuitem>Insert Date and Time</guimenuitem> "
 "</menuchoice>."
 msgstr ""
+"Lai ik reizi, ievietojot datumu/laiku, izmantotu vienu un to pašu pielāgoto "
+"datuma/laika formātu, atlasiet iespēju <guilabel>Lietot pielāgotu formātu</"
+"guilabel> un teksta lodziņā ievadiet vajadzīgo formātu. Kā norādīt pielāgotu "
+"formātu, skatiet <link xlink:href=\"man:strftime\"> <citerefentry> "
+"<refentrytitle>strftime</refentrytitle> <manvolnum>3</manvolnum> </"
+"citerefentry> </link>. Ja atlasāt šo iespēju, <application>pluma</"
+"application> neprasa datuma/laika formātu, kad izvēlaties <menuchoice> "
+"<guimenu>Rediģēt</guimenu> <guimenuitem>Ievietot datumu un laiku</"
+"guimenuitem> </menuchoice>."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2182
@@ -3099,6 +3595,8 @@ msgid ""
 "Click <guibutton>OK</guibutton> to close the <guilabel>Configure insert "
 "date/time plugin</guilabel> dialog."
 msgstr ""
+"Noklikšķiniet uz <guibutton>Labi</guibutton>, lai aizvērtu dialoglodziņu "
+"<guilabel>Configure insert date/time plugin</guilabel>."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2186
@@ -3106,11 +3604,13 @@ msgid ""
 "To close the <guilabel>Preferences</guilabel> dialog, click "
 "<guibutton>Close</guibutton>."
 msgstr ""
+"Lai aizvērtu dialoglodziņu <guilabel>Iestatījumi</guilabel>, noklikšķiniet "
+"uz <guibutton>Aizvērt</guibutton>."
 
 #. (itstool) path: info/title
 #: C/index.docbook:2194
 msgid "Modelines Plugin"
-msgstr ""
+msgstr "Spraudnis „Modelines”"
 
 #. (itstool) path: section/para
 #: C/index.docbook:2196
@@ -3120,6 +3620,10 @@ msgid ""
 " line of text at the start or end of the document with settings that "
 "<application>pluma</application> recognizes."
 msgstr ""
+"Spraudnis <application>Modelines</application> ļauj iestatīt iestatījumus "
+"atsevišķiem dokumentiem. <firstterm>Režīma rinda</firstterm> (modeline) ir "
+"teksta rinda dokumenta sākumā vai beigās ar iestatījumiem, ko <application>"
+"pluma</application> atpazīst."
 
 #. (itstool) path: section/para
 #: C/index.docbook:2197
@@ -3127,26 +3631,28 @@ msgid ""
 "Preferences set using modelines take precedence over the ones specified in "
 "the preference dialog."
 msgstr ""
+"Ar režīma rindām norādītie iestatījumi ir svarīgāki par iestatījumu "
+"dialoglodziņā norādītajiem."
 
 #. (itstool) path: section/para
 #: C/index.docbook:2198
 msgid "You can set the following preferences with modelines:"
-msgstr ""
+msgstr "Ar režīma rindām var iestatīt šādus iestatījumus:"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2201
 msgid "Tab width"
-msgstr ""
+msgstr "Tabulācijas platums"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2204
 msgid "Indent width"
-msgstr ""
+msgstr "Atkāpes platums"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2207
 msgid "Insert spaces instead of tabs"
-msgstr ""
+msgstr "Ievietot atstarpes tabulāciju vietā"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2210
@@ -3156,7 +3662,7 @@ msgstr "Teksta aplaušana"
 #. (itstool) path: listitem/para
 #: C/index.docbook:2213
 msgid "Right margin width"
-msgstr ""
+msgstr "Labās malas platums"
 
 #. (itstool) path: section/para
 #: C/index.docbook:2216
@@ -3165,11 +3671,14 @@ msgid ""
 "options used by other text editors <application>Emacs</application>, "
 "<application>Kate</application> and <application>Vim</application>."
 msgstr ""
+"Spraudnis <application>Modelines</application> atbalsta daļu no opcijām, ko "
+"izmanto citi teksta redaktori — <application>Emacs</application>, "
+"<application>Kate</application> un <application>Vim</application>."
 
 #. (itstool) path: info/title
 #: C/index.docbook:2220
 msgid "Emacs Modelines"
-msgstr ""
+msgstr "Emacs režīma rindas"
 
 #. (itstool) path: section/para
 #: C/index.docbook:2222
@@ -3177,6 +3686,8 @@ msgid ""
 "The first two lines of a document are scanned for "
 "<application>Emacs</application> modelines."
 msgstr ""
+"<application>Emacs</application> režīma rindas tiek meklētas dokumenta "
+"pirmajās divās rindās."
 
 #. (itstool) path: section/para
 #: C/index.docbook:2223
@@ -3187,11 +3698,15 @@ msgid ""
 "xlink:href=\"http://www.delorie.com/gnu/docs/emacs/emacs_486.html\">GNU "
 "Emacs Manual</link>."
 msgstr ""
+"Tiek atbalstītas <application>Emacs</application> opcijas tab-width, indent-"
+"offset, indent-tabs-mode un autowrap. Plašāku informāciju skatiet <link "
+"xlink:href=\"http://www.delorie.com/gnu/docs/emacs/emacs_486.html\">GNU "
+"Emacs rokasgrāmatā</link>."
 
 #. (itstool) path: info/title
 #: C/index.docbook:2228
 msgid "Kate Modelines"
-msgstr ""
+msgstr "Kate režīma rindas"
 
 #. (itstool) path: section/para
 #: C/index.docbook:2230
@@ -3199,6 +3714,8 @@ msgid ""
 "The first and last ten lines a document are scanned for "
 "<application>Kate</application> modelines."
 msgstr ""
+"<application>Kate</application> režīma rindas tiek meklētas dokumenta "
+"pirmajās un pēdējās desmit rindās."
 
 #. (itstool) path: section/para
 #: C/index.docbook:2231
@@ -3208,11 +3725,15 @@ msgid ""
 "information, see the <link xlink:href=\"http://www.kate-"
 "editor.org/article/katepart_modelines\">Kate website</link>."
 msgstr ""
+"Tiek atbalstītas <application>Kate</application> opcijas tab-width, indent-"
+"width, space-indent, word-wrap un word-wrap-column. Plašāku informāciju "
+"skatiet <link xlink:href=\"http://www.kate-editor.org/article/"
+"katepart_modelines\">Kate tīmekļa vietnē</link>."
 
 #. (itstool) path: info/title
 #: C/index.docbook:2236
 msgid "Vim Modelines"
-msgstr ""
+msgstr "Vim režīma rindas"
 
 #. (itstool) path: section/para
 #: C/index.docbook:2238
@@ -3220,6 +3741,8 @@ msgid ""
 "The first and last three lines a document are scanned for "
 "<application>Vim</application> modelines."
 msgstr ""
+"<application>Vim</application> režīma rindas tiek meklētas dokumenta "
+"pirmajās un pēdējās trīs rindās."
 
 #. (itstool) path: section/para
 #: C/index.docbook:2239
@@ -3230,11 +3753,15 @@ msgid ""
 "xlink:href=\"http://vimdoc.sourceforge.net/htmldoc/options.html#modeline\">Vim"
 " website</link>."
 msgstr ""
+"Tiek atbalstītas <application>Vim</application> opcijas et, expandtab, ts, "
+"tabstop, sw, shiftwidth, wrap un textwidth. Plašāku informāciju skatiet "
+"<link xlink:href=\"http://vimdoc.sourceforge.net/htmldoc/"
+"options.html#modeline\">Vim tīmekļa vietnē</link>."
 
 #. (itstool) path: info/title
 #: C/index.docbook:2245
 msgid "Python Console Plugin"
-msgstr ""
+msgstr "Spraudnis „Python konsole”"
 
 #. (itstool) path: section/para
 #: C/index.docbook:2247
@@ -3244,6 +3771,10 @@ msgid ""
 "<application>pluma</application>. Enabling the plugin adds a tab to the "
 "bottom pane. This shows recent output and a command prompt field."
 msgstr ""
+"Spraudnis <application>Python konsole</application> ļauj no <application>"
+"pluma</application> izpildīt komandas Python programmēšanas valodā. "
+"Iespējojot spraudni, apakšējam panelim tiek pievienota cilne. Tajā redzama "
+"nesenā izvade un komandu ievades lauks."
 
 #. (itstool) path: caution/para
 #: C/index.docbook:2249
@@ -3252,11 +3783,14 @@ msgid ""
 "run. It is therefore possible to hang <application>pluma</application>, for "
 "example by entering an infinite loop."
 msgstr ""
+"Python konsolē ievadītās komandas pirms izpildes netiek pārbaudītas. Tāpēc "
+"<application>pluma</application> var uzkārties, piemēram, ja ievadāt "
+"bezgalīgu ciklu."
 
 #. (itstool) path: info/title
 #: C/index.docbook:2255
 msgid "Save Without Trailing Spaces Plugin"
-msgstr ""
+msgstr "Spraudnis „Saglabāt bez beigu atstarpēm”"
 
 #. (itstool) path: section/para
 #: C/index.docbook:2257
@@ -3267,16 +3801,22 @@ msgid ""
 "from the end of a line. To use the Save Without Trailing Spaces plugin, "
 "perform the following steps:"
 msgstr ""
+"Spraudnis <application>Saglabāt bez beigu atstarpēm</application> noņem "
+"rindu beigās tukšumrakstzīmes, piemēram, atstarpi (<command>˽</command>), "
+"tabulāciju (<command>\\t</command>), rakstatgriezi (<command>\\r</command>) "
+"u. c. Lai izmantotu spraudni „Saglabāt bez beigu atstarpēm”, veiciet šīs "
+"darbības:"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2260
 msgid "Enable the plugin as described in <xref linkend=\"pluma-prefs-plugins\"/>."
 msgstr ""
+"Iespējojiet spraudni, kā aprakstīts <xref linkend=\"pluma-prefs-plugins\"/>."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2263
 msgid "When your document is ready, save it."
-msgstr ""
+msgstr "Kad dokuments ir gatavs, saglabājiet to."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2266
@@ -3284,11 +3824,13 @@ msgid ""
 "You will see that any trailing whitespaces has been stripped after the "
 "document has been saved."
 msgstr ""
+"Pēc dokumenta saglabāšanas redzēsiet, ka visas beigu tukšumrakstzīmes ir "
+"noņemtas."
 
 #. (itstool) path: info/title
 #: C/index.docbook:2273
 msgid "Snippets Plugin"
-msgstr ""
+msgstr "Spraudnis „Fragmenti”"
 
 #. (itstool) path: section/para
 #: C/index.docbook:2275
@@ -3297,6 +3839,9 @@ msgid ""
 "frequently-used pieces of text, called <firstterm>snippets</firstterm>, and "
 "insert them quickly into a document."
 msgstr ""
+"Spraudnis <application>Fragmenti</application> ļauj saglabāt bieži lietotus "
+"teksta gabalus, sauktus par <firstterm>fragmentiem</firstterm>, un ātri "
+"ievietot tos dokumentā."
 
 #. (itstool) path: section/para
 #: C/index.docbook:2276
@@ -3306,6 +3851,9 @@ msgid ""
 "list of snippets that are useful for HTML. In addition, some snippets are "
 "global, and are available in all documents."
 msgstr ""
+"Fragmenti ir atkarīgi no pašreizējā dokumenta valodas sintakses. Piemēram, "
+"strādājot ar HTML dokumentu, var izvēlēties no HTML noderīgu fragmentu "
+"saraksta. Turklāt daži fragmenti ir globāli un pieejami visos dokumentos."
 
 #. (itstool) path: section/para
 #: C/index.docbook:2277
@@ -3313,11 +3861,13 @@ msgid ""
 "A number of built-in snippets are installed with "
 "<application>pluma</application>, which can be modified."
 msgstr ""
+"Kopā ar <application>pluma</application> tiek instalēti vairāki iebūvēti "
+"fragmenti, kurus var mainīt."
 
 #. (itstool) path: info/title
 #: C/index.docbook:2281
 msgid "Inserting Snippets"
-msgstr ""
+msgstr "Fragmentu ievietošana"
 
 #. (itstool) path: section/para
 #: C/index.docbook:2283
@@ -3327,6 +3877,9 @@ msgid ""
 "is usually the first few letters of the snippet, or something else that is "
 "short and easy to remember."
 msgstr ""
+"Lai ievietotu dokumentā fragmentu, ievadiet tā <firstterm>Tab aktivizētāju</"
+"firstterm> un nospiediet <keycap>Tab</keycap>. Fragmenta Tab aktivizētājs "
+"parasti ir fragmenta pirmie burti vai kas cits īss un viegli atceramais."
 
 #. (itstool) path: section/para
 #: C/index.docbook:2284
@@ -3334,16 +3887,18 @@ msgid ""
 "Alternatively, press <keycombo> <keycap>Ctrl</keycap> <keycap>Space</keycap>"
 " </keycombo> to see a list of snippets you can insert."
 msgstr ""
+"Var arī nospiest <keycombo> <keycap>Ctrl</keycap> <keycap>Space</keycap> </"
+"keycombo>, lai redzētu ievietojamo fragmentu sarakstu."
 
 #. (itstool) path: info/title
 #: C/index.docbook:2289
 msgid "Adding Snippets"
-msgstr ""
+msgstr "Fragmentu pievienošana"
 
 #. (itstool) path: section/para
 #: C/index.docbook:2291
 msgid "To create a new snippet, do the following:"
-msgstr ""
+msgstr "Lai izveidotu jaunu fragmentu, veiciet šīs darbības:"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2294
@@ -3352,6 +3907,9 @@ msgid ""
 "Snippets</guimenuitem> </menuchoice>. The <guilabel>Snippets "
 "Manager</guilabel> window opens."
 msgstr ""
+"Izvēlieties <menuchoice> <guimenu>Rīki</guimenu> <guimenuitem>Pārvaldīt "
+"fragmentus</guimenuitem> </menuchoice>. Tiek atvērts logs <guilabel>"
+"Fragmentu pārvaldnieks</guilabel>."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2297
@@ -3361,16 +3919,22 @@ msgid ""
 " all languages, choose Global at the top of the list. The syntax of the "
 "document you are currently working with is shown by default."
 msgstr ""
+"Fragmentu saraksts ir grupēts pēc valodām. Atlasiet valodu, kurai vēlaties "
+"pievienot fragmentu, vai kādu fragmentu šīs valodas grupā. Lai pievienotu "
+"fragmentu visām valodām, saraksta augšdaļā izvēlieties „Globāli”. Pēc "
+"noklusējuma redzama tā dokumenta sintakse, ar kuru pašlaik strādājat."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2300
 msgid "Click <guibutton>New</guibutton>. A new snippet appears in the list."
 msgstr ""
+"Noklikšķiniet uz <guibutton>Jauns</guibutton>. Sarakstā parādīsies jauns "
+"fragments."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2303
 msgid "Enter the following information for the new snippet:"
-msgstr ""
+msgstr "Jaunajam fragmentam ievadiet šādu informāciju:"
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:2306
@@ -3384,11 +3948,14 @@ msgid ""
 "name of a snippet serves only as a reminder of its purpose. You can change "
 "name of a snippet you create by clicking on it in the list."
 msgstr ""
+"Fragmentu saraksta teksta laukā ievadiet fragmenta nosaukumu. Fragmenta "
+"nosaukums tikai atgādina par tā nozīmi. Paša izveidota fragmenta nosaukumu "
+"var mainīt, noklikšķinot uz tā sarakstā."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:2312
 msgid "Snippet text"
-msgstr ""
+msgstr "Fragmenta teksts"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2314
@@ -3397,6 +3964,9 @@ msgid ""
 "box. For special codes you can use, see <xref linkend=\"pluma-snippets-"
 "plugin-syntax\"/>."
 msgstr ""
+"Teksta lodziņā <guilabel>Rediģēt fragmentu</guilabel> ievadiet fragmenta "
+"tekstu. Izmantojamos īpašos kodus skatiet <xref linkend=\"pluma-snippets-"
+"plugin-syntax\"/>."
 
 #. (itstool) path: tip/para
 #: C/index.docbook:2316
@@ -3404,11 +3974,13 @@ msgid ""
 "You can switch back to the document window to copy text without closing the "
 "<guilabel>Snippets Manager</guilabel> window."
 msgstr ""
+"Lai nokopētu tekstu, var pārslēgties atpakaļ uz dokumenta logu, neaizverot "
+"logu <guilabel>Fragmentu pārvaldnieks</guilabel>."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:2321
 msgid "Tab Trigger"
-msgstr ""
+msgstr "Tab aktivizētājs"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2323
@@ -3416,6 +3988,8 @@ msgid ""
 "Enter the tab trigger for the snippet. This is the text that you type before"
 " pressing <keycap>Tab</keycap> to insert the snippet."
 msgstr ""
+"Ievadiet fragmenta Tab aktivizētāju. Tas ir teksts, ko ievadāt pirms <keycap>"
+"Tab</keycap> nospiešanas, lai ievietotu fragmentu."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2324
@@ -3424,21 +3998,24 @@ msgid ""
 "character. The <guilabel>Tab trigger</guilabel> will highlight in red if an "
 "invalid tab trigger is entered."
 msgstr ""
+"Tam jābūt vai nu vienam vārdam tikai no burtiem, vai jebkurai vienai "
+"rakstzīmei. Ja ievadīts nederīgs Tab aktivizētājs, lauks <guilabel>Tab "
+"aktivizētājs</guilabel> tiek izcelts sarkanā krāsā."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:2328
 msgid "Shortcut key"
-msgstr ""
+msgstr "Īsinājumtaustiņš"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2330
 msgid "Type a shortcut key to use for inserting the snippet."
-msgstr ""
+msgstr "Ievadiet īsinājumtaustiņu fragmenta ievietošanai."
 
 #. (itstool) path: info/title
 #: C/index.docbook:2340
 msgid "Editing and Removing Snippets"
-msgstr ""
+msgstr "Fragmentu rediģēšana un noņemšana"
 
 #. (itstool) path: section/para
 #: C/index.docbook:2342
@@ -3446,11 +4023,13 @@ msgid ""
 "To edit a snippet, select it in the list and make changes to its text and "
 "activation properties."
 msgstr ""
+"Lai rediģētu fragmentu, atlasiet to sarakstā un mainiet tā tekstu un "
+"aktivizēšanas īpašības."
 
 #. (itstool) path: section/para
 #: C/index.docbook:2343
 msgid "To rename a snippet, click it again in the list."
-msgstr ""
+msgstr "Lai pārdēvētu fragmentu, vēlreiz noklikšķiniet uz tā sarakstā."
 
 #. (itstool) path: section/para
 #: C/index.docbook:2344
@@ -3458,6 +4037,8 @@ msgid ""
 "To restore a built-in snippet that you have changed, press "
 "<guilabel>Revert</guilabel>."
 msgstr ""
+"Lai atjaunotu mainītu iebūvēto fragmentu, nospiediet <guilabel>Atgriezt</"
+"guilabel>."
 
 #. (itstool) path: section/para
 #: C/index.docbook:2345
@@ -3466,11 +4047,13 @@ msgid ""
 "<guibutton>Remove</guibutton>. You can not remove built-in snippets, only "
 "those you have created yourself."
 msgstr ""
+"Lai noņemtu fragmentu, atlasiet to sarakstā un nospiediet <guibutton>Noņemt</"
+"guibutton>. Iebūvētos fragmentus noņemt nevar — tikai pašu izveidotos."
 
 #. (itstool) path: info/title
 #: C/index.docbook:2350
 msgid "Snippet Substitutions"
-msgstr ""
+msgstr "Fragmentu aizstāšanas kodi"
 
 #. (itstool) path: section/para
 #: C/index.docbook:2352
@@ -3479,16 +4062,19 @@ msgid ""
 "text, or mark spaces where you can add text once the snippet is inserted in "
 "your document."
 msgstr ""
+"Papildus saglabātajam tekstam fragmentā var būt pielāgojams teksts vai "
+"atzīmētas vietas, kur pēc fragmenta ievietošanas dokumentā var pievienot "
+"tekstu."
 
 #. (itstool) path: section/para
 #: C/index.docbook:2353
 msgid "You can use the following placeholder codes in snippet text:"
-msgstr ""
+msgstr "Fragmenta tekstā var izmantot šādus vietturu kodus:"
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:2356
 msgid "Tab placeholders"
-msgstr ""
+msgstr "Tab vietturi"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2358
@@ -3496,6 +4082,8 @@ msgid ""
 "<literal>$<replaceable>n</replaceable></literal> defines a tab placeholder, "
 "where <literal>n</literal> is any number from 1 upwards."
 msgstr ""
+"<literal>$<replaceable>n</replaceable></literal> definē Tab vietturi, kur "
+"<literal>n</literal> ir jebkurš skaitlis, sākot no 1."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2359
@@ -3503,6 +4091,8 @@ msgid ""
 "<literal>${<replaceable>n</replaceable>:<replaceable>default</replaceable>}</literal>"
 " defines a tab placeholder with a default value."
 msgstr ""
+"<literal>${<replaceable>n</replaceable>:<replaceable>default</replaceable>}</"
+"literal> definē Tab vietturi ar noklusējuma vērtību."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2360
@@ -3510,6 +4100,8 @@ msgid ""
 "A tab placeholder marks a place in the snippet text where you can add extra "
 "text after the snippet is inserted."
 msgstr ""
+"Tab vieturis atzīmē vietu fragmenta tekstā, kur pēc fragmenta ievietošanas "
+"var pievienot papildu tekstu."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2361
@@ -3519,6 +4111,10 @@ msgid ""
 "advance to the next tab placeholder. The number in the placeholder code "
 "defines the order in which tab advances to each place in the text."
 msgstr ""
+"Lai izmantotu Tab vietturus, ievietojiet fragmentu kā parasti. Kursors tiek "
+"novietots pie pirmā Tab viettura. Ievadiet tekstu un nospiediet <keycap>Tab</"
+"keycap>, lai pārietu uz nākamo Tab vietturi. Skaitlis viettura kodā nosaka "
+"secību, kādā Tab pāriet no vietas uz vietu tekstā."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2362
@@ -3528,11 +4124,15 @@ msgid ""
 "there are no more tab placeholders moves the cursor to the end of the "
 "snippet text, or to the end placeholder if it exists."
 msgstr ""
+"Nospiediet <keycombo> <keycap>Shift</keycap> <keycap>Tab</keycap> </keycombo>"
+", lai atgrieztos pie iepriekšējā Tab viettura. Ja vairs nav Tab vietturu, "
+"nospiežot <keycap>Tab</keycap>, kursors tiek pārvietots uz fragmenta teksta "
+"beigām vai uz beigu vietturi, ja tāds ir."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:2366
 msgid "Mirror placeholders"
-msgstr ""
+msgstr "Spoguļvietturi"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2368
@@ -3541,11 +4141,13 @@ msgid ""
 " allows you to type in text only once that you want to appear several times "
 "in the snippet."
 msgstr ""
+"Atkārtots Tab vieturis atspoguļo jau definētu vietturi. Tā tekstu, kam "
+"fragmentā jāparādās vairākas reizes, var ievadīt tikai vienreiz."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:2372
 msgid "End placeholder"
-msgstr ""
+msgstr "Beigu vieturis"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2374
@@ -3554,11 +4156,13 @@ msgid ""
 " working with the snippet with the cursor at a point other than the end of "
 "the snippet text."
 msgstr ""
+"<literal>$0</literal> definē beigu vietturi. Tas ļauj pabeigt darbu ar "
+"fragmentu ar kursoru citā vietā, nevis fragmenta teksta beigās."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:2378
 msgid "Environmental variables"
-msgstr ""
+msgstr "Vides mainīgie"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2380
@@ -3567,21 +4171,24 @@ msgid ""
 "<literal>$HOME</literal> are substituted in snippet text. The following "
 "variables specific to <application>pluma</application> can also be used:"
 msgstr ""
+"Fragmenta tekstā tiek aizstāti vides mainīgie, piemēram, <literal>$PATH</"
+"literal> un <literal>$HOME</literal>. Var izmantot arī šādus <application>"
+"pluma</application> mainīgos:"
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:2383
 msgid "$PLUMA_SELECTED_TEXT"
-msgstr ""
+msgstr "$PLUMA_SELECTED_TEXT"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2385
 msgid "The currently selected text."
-msgstr ""
+msgstr "Pašlaik atlasītais teksts."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:2389
 msgid "$PLUMA_FILENAME"
-msgstr ""
+msgstr "$PLUMA_FILENAME"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2391
@@ -3589,11 +4196,13 @@ msgid ""
 "The full filename of the document, or an empty string if the document isn't "
 "saved yet."
 msgstr ""
+"Dokumenta pilns faila nosaukums vai tukša virkne, ja dokuments vēl nav "
+"saglabāts."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:2395
 msgid "$PLUMA_BASENAME"
-msgstr ""
+msgstr "$PLUMA_BASENAME"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2397
@@ -3601,11 +4210,13 @@ msgid ""
 "The basename of the filename of the document, or an empty string if the "
 "document isn't saved yet."
 msgstr ""
+"Dokumenta faila bāzes nosaukums vai tukša virkne, ja dokuments vēl nav "
+"saglabāts."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:2401
 msgid "$PLUMA_CURRENT_WORD"
-msgstr ""
+msgstr "$PLUMA_CURRENT_WORD"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2403
@@ -3613,11 +4224,13 @@ msgid ""
 "The word at the cursor's location in the document. When this variable is "
 "used, the current word will be replaced by the snippet text."
 msgstr ""
+"Vārds dokumentā kursora vietā. Ja izmanto šo mainīgo, pašreizējais vārds "
+"tiek aizstāts ar fragmenta tekstu."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:2410
 msgid "Shell placeholders"
-msgstr ""
+msgstr "Čaulas vietturi"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2412
@@ -3625,6 +4238,8 @@ msgid ""
 "<literal>$(<replaceable>cmd</replaceable>)</literal> is replaced by the "
 "result of executing <replaceable>cmd</replaceable> in a shell."
 msgstr ""
+"<literal>$(<replaceable>cmd</replaceable>)</literal> tiek aizstāts ar "
+"<replaceable>cmd</replaceable> izpildes rezultātu čaulā."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2413
@@ -3635,11 +4250,16 @@ msgid ""
 "<literal>$<replaceable>n</replaceable></literal> to use the output from one "
 "shell placeholder as input in another."
 msgstr ""
+"<literal>$(<replaceable>n</replaceable>:<replaceable>cmd</replaceable>)</"
+"literal> ļauj šim vietturim piešķirt atsauci, kur <replaceable>n</"
+"replaceable> ir jebkurš skaitlis, sākot no 1. Ar <literal>$<replaceable>n</"
+"replaceable></literal> viena čaulas viettura izvadi var izmantot kā ievadi "
+"citā."
 
 #. (itstool) path: varlistentry/term
 #: C/index.docbook:2417
 msgid "Python placeholders"
-msgstr ""
+msgstr "Python vietturi"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2419
@@ -3648,6 +4268,8 @@ msgid ""
 "the result of evaluating <replaceable>cmd</replaceable> in the python "
 "interpreter."
 msgstr ""
+"<literal>$&lt;<replaceable>cmd</replaceable>&gt;</literal> tiek aizstāts ar "
+"<replaceable>cmd</replaceable> novērtēšanas rezultātu Python interpretatorā."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2420
@@ -3659,6 +4281,12 @@ msgid ""
 "dependencies, separate the numbers with commas thus: "
 "<literal>$&lt;<replaceable>a</replaceable>,<replaceable>b</replaceable>:<replaceable>cmd</replaceable>&gt;</literal>"
 msgstr ""
+"<literal>$&lt;<replaceable>a</replaceable>:<replaceable>cmd</replaceable>"
+"&gt;</literal> norāda citu Python vietturi kā atkarību, kur <replaceable>a</"
+"replaceable> ir tā kārtas numurs fragmentā. Tā var izmantot citā fragmentā "
+"definētas Python funkcijas. Lai norādītu vairākas atkarības, atdaliet "
+"skaitļus ar komatiem: <literal>$&lt;<replaceable>a</replaceable>"
+",<replaceable>b</replaceable>:<replaceable>cmd</replaceable>&gt;</literal>"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2421
@@ -3666,11 +4294,13 @@ msgid ""
 "To use a variable in all other python snippets, declare it as "
 "<literal>global</literal>."
 msgstr ""
+"Lai izmantotu mainīgo visos citos Python fragmentos, deklarējiet to kā "
+"<literal>global</literal>."
 
 #. (itstool) path: info/title
 #: C/index.docbook:2430
 msgid "Sort Plugin"
-msgstr ""
+msgstr "Spraudnis „Kārtot”"
 
 #. (itstool) path: section/para
 #: C/index.docbook:2432
@@ -3678,16 +4308,18 @@ msgid ""
 "The <application>Sort</application> plugin arranges selected lines of text "
 "into alphabetical order."
 msgstr ""
+"Spraudnis <application>Kārtot</application> sakārto atlasītās teksta rindas "
+"alfabētiskā secībā."
 
 #. (itstool) path: section/para
 #: C/index.docbook:2433
 msgid "To use the Sort plugin, perform the following steps:"
-msgstr ""
+msgstr "Lai izmantotu spraudni „Kārtot”, veiciet šīs darbības:"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2436
 msgid "Select the lines of text you want to sort."
-msgstr ""
+msgstr "Atlasiet teksta rindas, kuras vēlaties kārtot."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2439
@@ -3695,11 +4327,14 @@ msgid ""
 "Choose <menuchoice> <guimenu>Edit</guimenu> <guimenuitem>Sort</guimenuitem> "
 "</menuchoice>. The <guilabel>Sort</guilabel> dialog opens."
 msgstr ""
+"Izvēlieties <menuchoice> <guimenu>Rediģēt</guimenu> <guimenuitem>Kārtot</"
+"guimenuitem> </menuchoice>. Tiek atvērts dialoglodziņš <guilabel>Kārtot</"
+"guilabel>."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2442
 msgid "Choose the options you want for the sort:"
-msgstr ""
+msgstr "Izvēlieties vajadzīgās kārtošanas iespējas:"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2445
@@ -3707,17 +4342,22 @@ msgid ""
 "To arrange the text in reverse order, select <guilabel>Reverse "
 "order</guilabel>."
 msgstr ""
+"Lai sakārtotu tekstu apgrieztā secībā, atlasiet <guilabel>Apgriezta secība</"
+"guilabel>."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2448
 msgid ""
 "To delete duplicate lines, select <guilabel>Remove duplicates</guilabel>."
 msgstr ""
+"Lai dzēstu dublētās rindas, atlasiet <guilabel>Noņemt dublikātus</guilabel>."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2451
 msgid "To ignore case sensitivity, select <guilabel>Ignore case</guilabel>."
 msgstr ""
+"Lai neņemtu vērā lielos un mazos burtus, atlasiet <guilabel>Ignorēt "
+"reģistru</guilabel>."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2454
@@ -3726,16 +4366,19 @@ msgid ""
 "first character that should be used for sorting in the <guilabel>Start at "
 "column</guilabel> spin box."
 msgstr ""
+"Lai kārtojot netiktu ņemtas vērā rindu sākuma rakstzīmes, skaitļa laukā "
+"<guilabel>Sākt no kolonnas</guilabel> iestatiet pirmo rakstzīmi, pēc kuras "
+"kārtot."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2459
 msgid "To perform the sort operation, click <guibutton>Sort</guibutton>."
-msgstr ""
+msgstr "Lai sakārtotu, noklikšķiniet uz <guibutton>Kārtot</guibutton>."
 
 #. (itstool) path: info/title
 #: C/index.docbook:2466
 msgid "Spell Checker Plugin"
-msgstr ""
+msgstr "Spraudnis „Pareizrakstības pārbaudītājs”"
 
 #. (itstool) path: section/para
 #: C/index.docbook:2468
@@ -3747,6 +4390,12 @@ msgid ""
 "properties, apply per document. To use the Spell checker plugin, perform the"
 " following steps:"
 msgstr ""
+"Spraudnis <application>Pareizrakstības pārbaudītājs</application> pārbauda "
+"atlasītā teksta pareizrakstību. <application>pluma</application> var "
+"iestatīt pārbaudīt pareizrakstību automātiski, vai arī pareizrakstību var "
+"pārbaudīt manuāli norādītajā valodā. Valodas iestatījums un automātiskās "
+"pārbaudes īpašības attiecas uz katru dokumentu atsevišķi. Lai izmantotu "
+"pareizrakstības pārbaudītāja spraudni, veiciet šīs darbības:"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2471
@@ -3757,6 +4406,11 @@ msgid ""
 "Click <guibutton>OK</guibutton> to close the <guilabel>Set "
 "language</guilabel> dialog."
 msgstr ""
+"Izvēlieties <menuchoice> <guimenu>Rīki</guimenu> <guimenuitem>Iestatīt "
+"valodu</guimenuitem> </menuchoice>, lai parādītu dialoglodziņu <guilabel>"
+"Iestatīt valodu</guilabel>. Sarakstā atlasiet vajadzīgo valodu. "
+"Noklikšķiniet uz <guibutton>Labi</guibutton>, lai aizvērtu dialoglodziņu "
+"<guilabel>Iestatīt valodu</guilabel>."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2474
@@ -3770,6 +4424,15 @@ msgid ""
 "item. Automatic spell checking is unset by default, each time "
 "<application>pluma</application> starts."
 msgstr ""
+"Lai automātiski pārbaudītu pareizrakstību, izvēlieties <menuchoice> <guimenu>"
+"Rīki</guimenu> <guimenuitem>Automātiski pārbaudīt pareizrakstību</"
+"guimenuitem> </menuchoice>. Lai atslēgtu automātisko pareizrakstības "
+"pārbaudi, vēlreiz izvēlieties <menuchoice> <guimenu>Rīki</guimenu> "
+"<guimenuitem>Automātiski pārbaudīt pareizrakstību</guimenuitem> </menuchoice>"
+". Kad automātiskā pareizrakstības pārbaude ir ieslēgta, blakus izvēlnes "
+"vienumam <guimenuitem>Automātiski pārbaudīt pareizrakstību</guimenuitem> "
+"tiek parādīta ikona. Automātiskā pareizrakstības pārbaude pēc noklusējuma ir "
+"atslēgta katru reizi, kad tiek palaists <application>pluma</application>."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2475
@@ -3778,6 +4441,9 @@ msgid ""
 "click on an unknown spelling, then select <guimenu>Spelling "
 "Suggestions</guimenu> from the popup menu:"
 msgstr ""
+"Nezināmi vārdi tiek rādīti citā krāsā un pasvītroti. Ar peles labo pogu "
+"noklikšķiniet uz nezināma vārda un uznirstošajā izvēlnē izvēlieties <guimenu>"
+"Pareizrakstības ieteikumi</guimenu>:"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2478
@@ -3786,6 +4452,8 @@ msgid ""
 "the replacement spelling from the <guimenu>Spelling Suggestions</guimenu> "
 "popup menu."
 msgstr ""
+"Lai aizstātu nezināmo vārdu ar kādu no sarakstā piedāvātajiem, uznirstošajā "
+"izvēlnē <guimenu>Pareizrakstības ieteikumi</guimenu> atlasiet aizstājējvārdu."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2481
@@ -3794,6 +4462,9 @@ msgid ""
 " <guimenu>Spelling Suggestions</guimenu> <guimenuitem>Add</guimenuitem> "
 "</menuchoice>."
 msgstr ""
+"Lai pievienotu nezināmo vārdu personīgajai vārdnīcai, izvēlieties "
+"<menuchoice> <guimenu>Pareizrakstības ieteikumi</guimenu> <guimenuitem>"
+"Pievienot</guimenuitem> </menuchoice>."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2484
@@ -3804,6 +4475,11 @@ msgid ""
 "<guimenuitem>Ignore All</guimenuitem> </menuchoice>. The unknown word is "
 "ignored in the current <application>pluma</application> session only."
 msgstr ""
+"Lai ignorētu visus nezināmā vārda gadījumus, tā, ka tie vairs netiek "
+"atzīmēti kā nezināmi, bet netiek pievienoti personīgajai vārdnīcai, "
+"izvēlieties <menuchoice> <guimenu>Pareizrakstības ieteikumi</guimenu> "
+"<guimenuitem>Ignorēt visus</guimenuitem> </menuchoice>. Nezināmais vārds "
+"tiek ignorēts tikai pašreizējā <application>pluma</application> sesijā."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2489
@@ -3811,6 +4487,9 @@ msgid ""
 "To check the spelling manually, choose <menuchoice> <guimenu>Tools</guimenu>"
 " <guimenuitem>Check Spelling</guimenuitem> </menuchoice>."
 msgstr ""
+"Lai manuāli pārbaudītu pareizrakstību, izvēlieties <menuchoice> <guimenu>"
+"Rīki</guimenu> <guimenuitem>Pārbaudīt pareizrakstību</guimenuitem> </"
+"menuchoice>."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2490
@@ -3820,6 +4499,10 @@ msgid ""
 "words. Click <guibutton>OK</guibutton> to close the "
 "<guilabel>Information</guilabel> dialog."
 msgstr ""
+"Ja pareizrakstības kļūdu nav, dialoglodziņā <guilabel>Informācija</guilabel> "
+"tiek parādīts ziņojums, ka dokumentā nav nepareizi uzrakstītu vārdu. "
+"Noklikšķiniet uz <guibutton>Labi</guibutton>, lai aizvērtu dialoglodziņu "
+"<guilabel>Informācija</guilabel>."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2491
@@ -3827,6 +4510,8 @@ msgid ""
 "If there are spelling errors, the <guilabel>Check Spelling</guilabel> dialog"
 " is displayed:"
 msgstr ""
+"Ja ir pareizrakstības kļūdas, tiek parādīts dialoglodziņš <guilabel>"
+"Pārbaudīt pareizrakstību</guilabel>:"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2494
@@ -3834,6 +4519,8 @@ msgid ""
 "The <guilabel>Misspelled word</guilabel> is displayed at the top of the "
 "dialog."
 msgstr ""
+"Dialoglodziņa augšdaļā redzams <guilabel>Nepareizi uzrakstīts vārds</"
+"guilabel>."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2497
@@ -3843,6 +4530,10 @@ msgid ""
 "selecting a spelling from the <guilabel>Suggestions</guilabel> list, or you "
 "can enter text directly into the <guilabel>Change to</guilabel> text box."
 msgstr ""
+"Teksta lodziņā <guilabel>Mainīt uz</guilabel> redzams ieteiktais pareizais "
+"variants. To var aizstāt ar citu, sarakstā <guilabel>Ieteikumi</guilabel> "
+"atlasot citu variantu, vai arī ievadīt tekstu tieši teksta lodziņā <guilabel>"
+"Mainīt uz</guilabel>."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2500
@@ -3853,6 +4544,11 @@ msgid ""
 "<literal>(correct spelling)</literal>. If the word is not known, new entries"
 " appear in the <guilabel>Suggestions</guilabel> list."
 msgstr ""
+"Lai pārbaudītu teksta lodziņā <guilabel>Mainīt uz</guilabel> esošā teksta "
+"pareizrakstību, noklikšķiniet uz <guibutton>Pārbaudīt vārdu</guibutton>. Ja "
+"vārds ir zināms, saraksts <guilabel>Ieteikumi</guilabel> tiek aizstāts ar "
+"tekstu <literal>(correct spelling)</literal>. Ja vārds nav zināms, sarakstā "
+"<guilabel>Ieteikumi</guilabel> parādās jauni vienumi."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2503
@@ -3862,6 +4558,10 @@ msgid ""
 "word, click <guibutton>Ignore All</guibutton>. The unknown word is ignored "
 "in the current <application>pluma</application> session only."
 msgstr ""
+"Lai ignorētu pašreizējo nezināmā vārda gadījumu, noklikšķiniet uz <guibutton>"
+"Ignorēt</guibutton>. Lai ignorētu visas nezināmā vārda gadījumus, "
+"noklikšķiniet uz <guibutton>Ignorēt visus</guibutton>. Nezināmais vārds tiek "
+"ignorēts tikai pašreizējā <application>pluma</application> sesijā."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2506
@@ -3872,6 +4572,11 @@ msgid ""
 " to the text in the <guilabel>Change to</guilabel> text box, click "
 "<guibutton>Change All</guibutton>."
 msgstr ""
+"Lai nomainītu pašreizējo nezināmā vārda gadījumu ar tekstu no teksta lodziņa "
+"<guilabel>Mainīt uz</guilabel>, noklikšķiniet uz <guibutton>Mainīt</"
+"guibutton>. Lai nomainītu visus nezināmā vārda gadījumus ar tekstu no teksta "
+"lodziņa <guilabel>Mainīt uz</guilabel>, noklikšķiniet uz <guibutton>Mainīt "
+"visus</guibutton>."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2509
@@ -3879,6 +4584,8 @@ msgid ""
 "To add the unknown word to your personal dictionary, click <guibutton>Add "
 "word</guibutton>."
 msgstr ""
+"Lai pievienotu nezināmo vārdu personīgajai vārdnīcai, noklikšķiniet uz "
+"<guibutton>Pievienot vārdu</guibutton>."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2512
@@ -3886,11 +4593,13 @@ msgid ""
 "To close the <guilabel>Check Spelling</guilabel> dialog, click "
 "<guibutton>Close</guibutton>."
 msgstr ""
+"Lai aizvērtu dialoglodziņu <guilabel>Pārbaudīt pareizrakstību</guilabel>, "
+"noklikšķiniet uz <guibutton>Aizvērt</guibutton>."
 
 #. (itstool) path: info/title
 #: C/index.docbook:2521
 msgid "Tag List Plugin"
-msgstr ""
+msgstr "Spraudnis „Birku saraksts”"
 
 #. (itstool) path: section/para
 #: C/index.docbook:2523
@@ -3898,11 +4607,13 @@ msgid ""
 "The <application>Tag List</application> plugin allows you to insert common "
 "tags from a list in the side pane."
 msgstr ""
+"Spraudnis <application>Birku saraksts</application> ļauj ievietot biežāk "
+"lietotās birkas no saraksta sānu rūtī."
 
 #. (itstool) path: section/para
 #: C/index.docbook:2524
 msgid "To use the Tag List plugin, perform the following steps:"
-msgstr ""
+msgstr "Lai izmantotu spraudni „Birku saraksts”, veiciet šīs darbības:"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2527
@@ -3910,6 +4621,8 @@ msgid ""
 "Choose <menuchoice> <guimenu>View</guimenu> <guimenuitem>Side "
 "Pane</guimenuitem> </menuchoice>."
 msgstr ""
+"Izvēlieties <menuchoice> <guimenu>Skats</guimenu> <guimenuitem>Sānu rūts</"
+"guimenuitem> </menuchoice>."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2530
@@ -3918,6 +4631,9 @@ msgid ""
 "Click on the tab showing a + icon at the bottom of the side pane to show the"
 " tag list tab."
 msgstr ""
+"Pēc noklusējuma sānu rūtī redzama cilne ar atvērto dokumentu sarakstu. Lai "
+"parādītu birku saraksta cilni, sānu rūts apakšā noklikšķiniet uz cilnes ar "
+"ikonu +."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2533
@@ -3925,11 +4641,13 @@ msgid ""
 "Select the appropriate tag category from the drop-down list. For example, "
 "<guilabel>HTML - Tags</guilabel>."
 msgstr ""
+"Nolaižamajā sarakstā atlasiet vajadzīgo birku kategoriju, piemēram, "
+"<guilabel>HTML - Tags</guilabel>."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2536
 msgid "Scroll through the tag list to find the required tag."
-msgstr ""
+msgstr "Ritiniet birku sarakstu, lai atrastu vajadzīgo birku."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2539
@@ -3937,6 +4655,8 @@ msgid ""
 "To insert a tag at the cursor position in the current file, double-click on "
 "the tag in the tag list. You can also insert a tag as follows:"
 msgstr ""
+"Lai ievietotu birku pašreizējā failā kursora vietā, veiciet dubultklikšķi uz "
+"birkas birku sarakstā. Birku var ievietot arī šādi:"
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2542
@@ -3944,6 +4664,8 @@ msgid ""
 "To insert a tag in the current file and change the focus from the side pane "
 "to the display area, press <keycap>Return</keycap>."
 msgstr ""
+"Lai ievietotu birku pašreizējā failā un pārvietotu fokusu no sānu rūts uz "
+"attēlošanas apgabalu, nospiediet <keycap>Enter</keycap>."
 
 #. (itstool) path: listitem/para
 #: C/index.docbook:2545
@@ -3952,6 +4674,9 @@ msgid ""
 "<guilabel>Tag list plugin</guilabel> window, press <keycombo> "
 "<keycap>Shift</keycap> <keycap>Return</keycap> </keycombo>."
 msgstr ""
+"Lai ievietotu birku pašreizējā failā un saglabātu fokusu logā <guilabel>"
+"Birku saraksta spraudnis</guilabel>, nospiediet <keycombo> <keycap>Shift</"
+"keycap> <keycap>Enter</keycap> </keycombo>."
 
 #. (itstool) path: legalnotice/para
 #: C/legal.xml:5
@@ -3964,6 +4689,13 @@ msgid ""
 "xlink:href=\"https://www.gnu.org/licenses/fdl-1.1.html\">link</link> or in "
 "the file COPYING-DOCS distributed with this manual."
 msgstr ""
+"Ir atļauts kopēt, izplatīt un/vai mainīt šo dokumentu saskaņā ar GNU Brīvās "
+"dokumentācijas licences (GFDL) 1.1. vai jebkuras vēlākas versijas "
+"noteikumiem, kā tās publicējis Brīvās programmatūras fonds, bez nemainīgajām "
+"sadaļām, bez priekšējā vāka tekstiem un bez aizmugurējā vāka tekstiem. GFDL "
+"kopiju var atrast šajā <link xlink:href=\"https://www.gnu.org/licenses/fdl-"
+"1.1.html\">saitē</link> vai failā COPYING-DOCS, kas tiek izplatīts kopā ar "
+"šo rokasgrāmatu."
 
 #. (itstool) path: legalnotice/para
 #: C/legal.xml:14
@@ -3973,6 +4705,10 @@ msgid ""
 "you can do so by adding a copy of the license to the manual, as described in"
 " section 6 of the license."
 msgstr ""
+"Šī rokasgrāmata ir daļa no MATE rokasgrāmatu kolekcijas, kas izplatīta "
+"saskaņā ar GFDL. Ja vēlaties izplatīt šo rokasgrāmatu atsevišķi no "
+"kolekcijas, to var izdarīt, pievienojot rokasgrāmatai licences kopiju, kā "
+"aprakstīts licences 6. sadaļā."
 
 #. (itstool) path: legalnotice/para
 #: C/legal.xml:21
@@ -3983,6 +4719,11 @@ msgid ""
 "aware of those trademarks, then the names are in capital letters or initial "
 "capital letters."
 msgstr ""
+"Daudzi nosaukumi, ko uzņēmumi lieto savu produktu un pakalpojumu "
+"atšķiršanai, ir reģistrēti kā preču zīmes. Ja šādi nosaukumi ir minēti MATE "
+"dokumentācijā un MATE dokumentācijas projekta dalībniekiem ir zināms par šīm "
+"preču zīmēm, nosaukumi ir rakstīti ar lielajiem burtiem vai ar lielo "
+"sākumburtu."
 
 #. (itstool) path: listitem/para
 #: C/legal.xml:37
@@ -3999,6 +4740,16 @@ msgid ""
 "ESSENTIAL PART OF THIS LICENSE. NO USE OF ANY DOCUMENT OR MODIFIED VERSION "
 "OF THE DOCUMENT IS AUTHORIZED HEREUNDER EXCEPT UNDER THIS DISCLAIMER; AND"
 msgstr ""
+"DOKUMENTS TIEK NODROŠINĀTS \"TĀDS, KĀDS IR\", BEZ JEBKĀDĀM TIEŠĀM VAI "
+"NETIEŠĀM GARANTIJĀM, IESKAITOT, BET NE TIKAI, GARANTIJAS, KA DOKUMENTS VAI "
+"DOKUMENTA MAINĪTĀ VERSIJA IR BEZ DEFEKTIEM, PĀRDODAMS, PIEMĒROTS KONKRĒTAM "
+"NOLŪKAM VAI NEPĀRKĀPJ TIESĪBAS. VISU RISKU PAR DOKUMENTA VAI TĀ MAINĪTĀS "
+"VERSIJAS KVALITĀTI, PRECIZITĀTI UN DARBĪBU UZŅEMATIES JŪS. JA KĀDS DOKUMENTS "
+"VAI MAINĪTĀ VERSIJA KAUT KĀDĀ ZIŅĀ IZRĀDĀS DEFEKTĪVS, JŪS (NEVIS SĀKOTNĒJAIS "
+"RAKSTĪTĀJS, AUTORS VAI KĀDS LĪDZAUTORS) UZŅEMATIES VISAS NEPIECIEŠAMĀS "
+"APKOPES, REMONTA VAI LABOJUMU IZMAKSAS. ŠĪ GARANTIJAS ATRUNA IR BŪTISKA ŠĪS "
+"LICENCES DAĻA. NEVIENA DOKUMENTA VAI TĀ MAINĪTĀS VERSIJAS LIETOŠANA SASKAŅĀ "
+"AR ŠO LICENCI NAV ATĻAUTA, IZŅEMOT SASKAŅĀ AR ŠO ATRUNU; UN"
 
 #. (itstool) path: listitem/para
 #: C/legal.xml:57
@@ -4014,6 +4765,16 @@ msgid ""
 "VERSIONS OF THE DOCUMENT, EVEN IF SUCH PARTY SHALL HAVE BEEN INFORMED OF THE"
 " POSSIBILITY OF SUCH DAMAGES."
 msgstr ""
+"NEKĀDOS APSTĀKĻOS UN SASKAŅĀ AR NEKĀDU TIESĪBU TEORIJU — NE DELIKTA "
+"(IESKAITOT NOLAIDĪBU), NE LĪGUMA, NE CITĀDI — AUTORS, SĀKOTNĒJAIS "
+"RAKSTĪTĀJS, JEBKURŠ LĪDZAUTORS VAI JEBKURŠ DOKUMENTA VAI TĀ MAINĪTĀS "
+"VERSIJAS IZPLATĪTĀJS, VAI JEBKURŠ ŠO PUŠU PIEGĀDĀTĀJS NAV ATBILDĪGS NEVIENAI "
+"PERSONAI PAR JEBKĀDIEM TIEŠIEM, NETIEŠIEM, ĪPAŠIEM, NEJAUŠIEM VAI "
+"IZRIETOŠIEM ZAUDĒJUMIEM, IESKAITOT, BET NE TIKAI, ZAUDĒJUMUS PAR REPUTĀCIJAS "
+"ZAUDĒŠANU, DARBA APSTĀŠANOS, DATORA ATTEICI VAI NEPAREIZU DARBĪBU, VAI "
+"JEBKĀDIEM CITIEM ZAUDĒJUMIEM, KAS RADUŠIES SAISTĪBĀ AR DOKUMENTA UN TĀ "
+"MAINĪTO VERSIJU LIETOŠANU, PAT JA ŠĪ PUSE IR BIJUSI INFORMĒTA PAR ŠĀDU "
+"ZAUDĒJUMU IESPĒJAMĪBU."
 
 #. (itstool) path: legalnotice/para
 #: C/legal.xml:30
@@ -4022,11 +4783,14 @@ msgid ""
 "OF THE GNU FREE DOCUMENTATION LICENSE WITH THE FURTHER UNDERSTANDING THAT: "
 "<_:orderedlist-1/>"
 msgstr ""
+"DOKUMENTS UN TĀ MAINĪTĀS VERSIJAS TIEK NODROŠINĀTAS SASKAŅĀ AR GNU BRĪVĀS "
+"DOKUMENTĀCIJAS LICENCES NOTEIKUMIEM, PAPILDUS SAPROTOT, KA: <_:orderedlist-"
+"1/>"
 
 #. (itstool) path: formalpara/title
 #: C/legal.xml:78
 msgid "Feedback"
-msgstr ""
+msgstr "Atsauksmes"
 
 #. (itstool) path: formalpara/para
 #: C/legal.xml:79
@@ -4036,3 +4800,6 @@ msgid ""
 "directions in the <link xlink:href=\"help:mate-user-guide/feedback\">MATE "
 "Feedback Page</link>."
 msgstr ""
+"Lai ziņotu par kļūdu vai ieteiktu uzlabojumu lietotnei <application>pluma</"
+"application> vai šai rokasgrāmatai, izpildiet norādījumus <link "
+"xlink:href=\"help:mate-user-guide/feedback\">MATE atsauksmju lapā</link>."
